@@ -1,0 +1,5768 @@
+
+------------------------------
+04.02.2015 14:00:05
+pseri:6507
+pnum:260509
+pdate:16.04.2008
+pkem:уфмс
+pmesto:Новоуральск
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+lmesto:малышево
+propcity:Новоуральск
+propul:корнилова
+region:66
+projcity:Новоуральск
+projul:корнилова
+numid:123
+true_nbki:9
+id:84
+/nbki.php?pseri=6507&pnum=260509&pdate=16.04.2008&pkem=уфмс&pmesto=Новоуральск&lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&lmesto=малышево&propcity=Новоуральск&propul=корнилова&region=66&projcity=Новоуральск&projul=корнилова&numid=123&true_nbki=9&id=84&
+
+------------------------------
+04.02.2015 14:05:09
+pseri:6505
+pnum:704714
+pdate:20.12.2005
+pkem:ОТДЕЛОМ МИЛИЦИИ ЖЕЛЕЗНОДОРОЖНОГО РУВД
+pmesto:екатеринбург
+lfam:Логойда
+lname:Василий
+lotch:Николаевич
+ldate:19.04.1983
+lmesto:екатеринбург
+propcity:екатеринбург
+propul:КУНАРСКАЯ
+region:66
+projcity:екатеринбург
+projul:КУНАРСКАЯ
+numid:654321
+true_nbki:4
+id:85
+/nbki.php?pseri=6505&pnum=704714&pdate=20.12.2005&pkem=ОТДЕЛОМ+МИЛИЦИИ+ЖЕЛЕЗНОДОРОЖНОГО+РУВД&pmesto=екатеринбург&lfam=Логойда&lname=Василий&lotch=Николаевич&ldate=19.04.1983&lmesto=екатеринбург&propcity=екатеринбург&propul=КУНАРСКАЯ&region=66&projcity=екатеринбург&projul=КУНАРСКАЯ&numid=654321&true_nbki=4&id=85&
+
+------------------------------
+04.02.2015 14:55:34
+numid:48646
+true_nbki:1
+lfam:Кудисов
+lname:Анатолий
+lotch:Николаевич
+ldate:25.03.1985
+lmesto:гор. Новоуральск Свердловской обл.
+pseri:6505
+pnum:424026
+pdate:17.05.2005
+region:66
+pkem:Управлением Внутренних Дел гор.Новоуральска Свердловской  обл.
+pmesto:Управлением Внутренних Дел гор.Новоуральска Свердловской  обл.
+propcity:г. Новоуральск
+propul:проезд. Парковый
+projcity:г. Новоуральск
+projul:ул. Комарова
+id:86
+/nbki.php?numid=48646&true_nbki=1&lfam=Кудисов&lname=Анатолий&lotch=Николаевич&ldate=25.03.1985&lmesto=гор.+Новоуральск+Свердловской+обл.&pseri=6505&pnum=424026&pdate=17.05.2005&region=66&pkem=Управлением+Внутренних+Дел+гор.Новоуральска+Свердловской++обл.&pmesto=Управлением+Внутренних+Дел+гор.Новоуральска+Свердловской++обл.&propcity=г.+Новоуральск&propul=проезд.+Парковый&projcity=г.+Новоуральск&projul=ул.+Комарова&id=86&
+
+------------------------------
+04.02.2015 15:57:20
+ldate:25.03.1985
+propcity:г. Новоуральск
+lfam:Кудисов
+lname:Анатолий
+id:48646
+/nbki.php?ldate=25.03.1985&propcity=г.+Новоуральск&lfam=Кудисов&lname=Анатолий&id=48646&
+
+------------------------------
+04.02.2015 18:26:22
+pseri:6507
+pnum:260509
+pdate:16.04.200
+pkem:уфмс
+pmesto:новоуральск
+lfam:Антропов
+lname:Кирилл
+lotch:андреевич
+ldate:08.11.1987
+lmesto:малышево
+propcity:новоуральск
+propul:корнилова
+region:66
+projcity:новоуральск
+projul:корнилова
+numid:123
+true_nbki:9
+id:88
+/nbki.php?pseri=6507&pnum=260509&pdate=16.04.200&pkem=уфмс&pmesto=новоуральск&lfam=Антропов&lname=Кирилл&lotch=андреевич&ldate=08.11.1987&lmesto=малышево&propcity=новоуральск&propul=корнилова&region=66&projcity=новоуральск&projul=корнилова&numid=123&true_nbki=9&id=88&
+
+------------------------------
+04.02.2015 18:29:51
+pseri:6500
+pnum:574105
+pdate:08.06.2001
+pkem:уфмс
+pmesto:КИРОВГРАД
+lfam:Нестерова 
+lname:Светлана 
+lotch:Васильевна
+ldate:20.04.1950
+lmesto:КИРОВГРАД
+propcity:НОВОУРАЛЬСК
+propul:ПОБЕДЫ
+region:66
+projcity:НОВОУРАЛЬСК
+projul:ПОБЕДЫ
+numid:1234
+true_nbki:9
+id:89
+/nbki.php?pseri=6500&pnum=574105&pdate=08.06.2001&pkem=уфмс&pmesto=КИРОВГРАД&lfam=Нестерова+&lname=Светлана+&lotch=Васильевна&ldate=20.04.1950&lmesto=КИРОВГРАД&propcity=НОВОУРАЛЬСК&propul=ПОБЕДЫ&region=66&projcity=НОВОУРАЛЬСК&projul=ПОБЕДЫ&numid=1234&true_nbki=9&id=89&
+
+------------------------------
+04.02.2015 18:30:07
+pseri:6500
+pnum:574105
+pdate:08.06.2001
+pkem:уфмс
+pmesto:КИРОВГРАД
+lfam:Нестерова
+lname:Светлана
+lotch:Васильевна
+ldate:20.04.1950
+lmesto:КИРОВГРАД
+propcity:НОВОУРАЛЬСК
+propul:ПОБЕДЫ
+region:66
+projcity:НОВОУРАЛЬСК
+projul:ПОБЕДЫ
+numid:1234
+true_nbki:9
+id:90
+/nbki.php?pseri=6500&pnum=574105&pdate=08.06.2001&pkem=уфмс&pmesto=КИРОВГРАД&lfam=Нестерова&lname=Светлана&lotch=Васильевна&ldate=20.04.1950&lmesto=КИРОВГРАД&propcity=НОВОУРАЛЬСК&propul=ПОБЕДЫ&region=66&projcity=НОВОУРАЛЬСК&projul=ПОБЕДЫ&numid=1234&true_nbki=9&id=90&
+
+------------------------------
+04.02.2015 18:50:32
+pseri:6507
+pnum:260509
+pdate:15.04.2008
+pkem:уфмс
+pmesto:новоуральск
+lfam:антропов
+lname:кирилл
+lotch:андреевич
+ldate:08.11.1987
+lmesto:малышево
+propcity:новоуральск
+propul:корнмлова
+region:66
+projcity:новоуральск
+projul:корнмлова
+numid:123
+true_nbki:9
+id:91
+/nbki.php?pseri=6507&pnum=260509&pdate=15.04.2008&pkem=уфмс&pmesto=новоуральск&lfam=антропов&lname=кирилл&lotch=андреевич&ldate=08.11.1987&lmesto=малышево&propcity=новоуральск&propul=корнмлова&region=66&projcity=новоуральск&projul=корнмлова&numid=123&true_nbki=9&id=91&
+
+------------------------------
+04.03.2015 11:46:20
+numid:48695
+true_nbki:1
+lfam:Ермакова
+lname:Юлия
+lotch:Валерьевна
+ldate:21.03.1971
+lmesto:гор. Новоуральск  Свердловской обл.
+pseri:6598
+pnum:182082
+pdate:02.03.2001
+region:66
+pkem:УВД гор. НовоуральскаСвердловской обл.
+pmesto:УВД гор. НовоуральскаСвердловской обл.
+propcity:г. Новоуральск
+propul:б-р. Академика Кикоина
+projcity:г. Новоуральск
+projul:б-р. Академика Кикоина
+id:92
+/nbki.php?numid=48695&true_nbki=1&lfam=Ермакова&lname=Юлия&lotch=Валерьевна&ldate=21.03.1971&lmesto=гор.+Новоуральск++Свердловской+обл.&pseri=6598&pnum=182082&pdate=02.03.2001&region=66&pkem=УВД+гор.+НовоуральскаСвердловской+обл.&pmesto=УВД+гор.+НовоуральскаСвердловской+обл.&propcity=г.+Новоуральск&propul=б-р.+Академика+Кикоина&projcity=г.+Новоуральск&projul=б-р.+Академика+Кикоина&id=92&
+
+------------------------------
+04.03.2015 14:07:02
+lfam:тест
+lname:тест
+lotch:тест
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+/nbki.php?lfam=тест&lname=тест&lotch=тест&ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&
+
+------------------------------
+04.03.2015 14:07:32
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&
+
+------------------------------
+04.03.2015 17:00:20
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:4
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=4&
+
+------------------------------
+04.03.2015 17:01:20
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:4
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=4&
+
+------------------------------
+04.03.2015 17:02:11
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:4
+/nbki.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D1%82%D0%B5%D1%81%D1%82&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D1%82%D0%B5%D1%81%D1%82&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=4&
+
+------------------------------
+04.03.2015 17:03:25
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:4
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=4&
+
+------------------------------
+04.03.2015 17:03:51
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:4
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=4&
+
+------------------------------
+04.03.2015 17:04:28
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:06:13
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:07:24
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:08:05
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:08:25
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:11:26
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:13:54
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:15:32
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:16:36
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:18:06
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:19:10
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:1
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=1&
+
+------------------------------
+04.03.2015 17:20:47
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:21:05
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:24:58
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:29:10
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:29:51
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:30:41
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:31:36
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:34:29
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:35:53
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:36:40
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:37:57
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:40:10
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:41:18
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:43:08
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:44:12
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:45:35
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:46:11
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:51:34
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:51:50
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:53:16
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:55:02
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 17:55:30
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:04:26
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:05:19
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:06:46
+lfam:Логойда
+lname:Василий
+lotch:Николаевич
+ldate:19.04.1983
+pseri:6511
+pnum:178261
+pkem:ОТДЕЛОМ УФМС РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛАСТИ В ЖЕЛЕЗНОДОРОЖНОМ РАЙОНЕ ГОРОДА ЕКАТЕРИНБУРГА
+pdate:23.04.2011
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Логойда&lname=Василий&lotch=Николаевич&ldate=19.04.1983&pseri=6511&pnum=178261&pkem=ОТДЕЛОМ+УФМС+РОССИИ+ПО+СВЕРДЛОВСКОЙ+ОБЛАСТИ+В+ЖЕЛЕЗНОДОРОЖНОМ+РАЙОНЕ+ГОРОДА+ЕКАТЕРИНБУРГА&pdate=23.04.2011&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:07:33
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:екатеринбург
+propul:тест
+projcity:екатеринбург
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=екатеринбург&propul=тест&projcity=екатеринбург&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:08:08
+lfam:Логойда
+lname:Василий
+lotch:Николаевич
+ldate:19.04.1983
+pseri:6511
+pnum:178261
+pkem:ОТДЕЛОМ УФМС РОССИИ ПО СВЕРДЛОВСКОЙ ОБЛАСТИ В ЖЕЛЕЗНОДОРОЖНОМ РАЙОНЕ ГОРОДА ЕКАТЕРИНБУРГА
+pdate:23.04.2011
+pmesto:тест
+lmesto:тест
+propcity:екатеринбург
+propul:тест
+projcity:екатеринбург
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Логойда&lname=Василий&lotch=Николаевич&ldate=19.04.1983&pseri=6511&pnum=178261&pkem=ОТДЕЛОМ+УФМС+РОССИИ+ПО+СВЕРДЛОВСКОЙ+ОБЛАСТИ+В+ЖЕЛЕЗНОДОРОЖНОМ+РАЙОНЕ+ГОРОДА+ЕКАТЕРИНБУРГА&pdate=23.04.2011&pmesto=тест&lmesto=тест&propcity=екатеринбург&propul=тест&projcity=екатеринбург&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:32:47
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:екатеринбург
+propul:тест
+projcity:екатеринбург
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=екатеринбург&propul=тест&projcity=екатеринбург&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:33:25
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:33:35
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:33:41
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:33:45
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:33:51
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 18:34:09
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.03.2015 19:47:57
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.04.2015 11:07:55
+numid:48776
+true_nbki:1
+lfam:Ламонова
+lname:Людмила
+lotch:Владимировна
+ldate:15.02.1956
+lmesto:пос. Верх-Нейвинск Невьянского р-на Свердловской обл.
+pseri:6502
+pnum:473226
+pdate:20.06.2002
+region:66
+pkem:УВД гор. Новоуральска Свердловской обл.
+pmesto:УВД гор. Новоуральска Свердловской обл.
+propcity:г. Новоуральск
+propul:б-р. Академика Кикоина
+projcity:г. Новоуральск
+projul:б-р. Академика Кикоина
+id:93
+/nbki.php?numid=48776&true_nbki=1&lfam=Ламонова&lname=Людмила&lotch=Владимировна&ldate=15.02.1956&lmesto=пос.+Верх-Нейвинск+Невьянского+р-на+Свердловской+обл.&pseri=6502&pnum=473226&pdate=20.06.2002&region=66&pkem=УВД+гор.+Новоуральска+Свердловской+обл.&pmesto=УВД+гор.+Новоуральска+Свердловской+обл.&propcity=г.+Новоуральск&propul=б-р.+Академика+Кикоина&projcity=г.+Новоуральск&projul=б-р.+Академика+Кикоина&id=93&
+
+------------------------------
+04.05.2015 11:56:39
+numid:48860
+true_nbki:1
+lfam:Кондратьева
+lname:Надежда
+lotch:Геннадьевна
+ldate:25.08.1958
+lmesto:с. Шурала Невьянского р-на Свердловской обл.
+pseri:6504
+pnum:860772
+pdate:17.11.2003
+region:66
+pkem:Управлением Внутренних Дел гор. Новоуральска Свердловской обл.
+pmesto:Управлением Внутренних Дел гор. Новоуральска Свердловской обл.
+propcity:г. Новоуральск
+propul:ул. Корнилова
+projcity:г. Новоуральск
+projul:ул. Корнилова
+id:99
+/nbki.php?numid=48860&true_nbki=1&lfam=Кондратьева&lname=Надежда&lotch=Геннадьевна&ldate=25.08.1958&lmesto=с.+Шурала+Невьянского+р-на+Свердловской+обл.&pseri=6504&pnum=860772&pdate=17.11.2003&region=66&pkem=Управлением+Внутренних+Дел+гор.+Новоуральска+Свердловской+обл.&pmesto=Управлением+Внутренних+Дел+гор.+Новоуральска+Свердловской+обл.&propcity=г.+Новоуральск&propul=ул.+Корнилова&projcity=г.+Новоуральск&projul=ул.+Корнилова&id=99&
+
+------------------------------
+04.06.2015 00:42:39
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 13:59:36
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 14:05:04
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:05:12
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:05:33
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:06:47
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:06:50
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:06:58
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:07:04
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:07:07
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:07:15
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:08:36
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:08:38
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:09:03
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:09:05
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:10:04
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:10:16
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:10:59
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:12:18
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:12:20
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:12:53
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:13:12
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B2&lname=%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB&lotch=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=%D1%82%D0%B5%D1%81%D1%82&pmesto=%D1%82%D0%B5%D1%81%D1%82&lmesto=%D1%82%D0%B5%D1%81%D1%82&propcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&propul=%D1%82%D0%B5%D1%81%D1%82&projcity=%D0%BD%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA&projul=%D1%82%D0%B5%D1%81%D1%82&true_nbki=9&
+
+------------------------------
+04.06.2015 14:17:04
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 14:17:05
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 14:19:45
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 14:19:46
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 14:22:25
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 14:22:25
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 15:17:50
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 15:17:51
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 15:32:12
+lfam:Швецов
+lname:Роман
+lotch:Владимирович
+ldate:21.05.1976
+pseri:6598
+pnum:180183
+pkem:НОВОУРАЛЬСКА
+pdate:26.12.2000
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:1
+/nbki.php?lfam=Швецов&lname=Роман&lotch=Владимирович&ldate=21.05.1976&pseri=6598&pnum=180183&pkem=НОВОУРАЛЬСКА&pdate=26.12.2000&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=1&
+
+------------------------------
+04.06.2015 15:32:13
+lfam:Швецов
+lname:Роман
+lotch:Владимирович
+ldate:21.05.1976
+pseri:6598
+pnum:180183
+pkem:НОВОУРАЛЬСКА
+pdate:26.12.2000
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:1
+/nbki-xml.php?lfam=Швецов&lname=Роман&lotch=Владимирович&ldate=21.05.1976&pseri=6598&pnum=180183&pkem=НОВОУРАЛЬСКА&pdate=26.12.2000&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=1&
+
+------------------------------
+04.06.2015 16:56:00
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 16:56:01
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 17:46:26
+numid:48974
+true_nbki:1
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+lmesto:Свердловск-44 
+pseri:6506
+pnum:871168
+pdate:01.01.2003
+region:66
+pkem:УВД гор. Новоуральска Свердловской обл.
+pmesto:УВД гор. Новоуральска Свердловской обл.
+propcity:г. Екатеринбург
+propul:снт. Суходол
+projcity:г. Екатеринбург
+projul:снт. Суходол
+id:103
+/nbki.php?numid=48974&true_nbki=1&lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&lmesto=Свердловск-44+&pseri=6506&pnum=871168&pdate=01.01.2003&region=66&pkem=УВД+гор.+Новоуральска+Свердловской+обл.&pmesto=УВД+гор.+Новоуральска+Свердловской+обл.&propcity=г.+Екатеринбург&propul=снт.+Суходол&projcity=г.+Екатеринбург&projul=снт.+Суходол&id=103&
+
+------------------------------
+04.06.2015 18:09:25
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 18:09:25
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 18:11:35
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+pseri:6503
+pnum:871168
+pkem:НОВОУРАЛЬСКА
+pdate:31.01.2003
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&pseri=6503&pnum=871168&pkem=НОВОУРАЛЬСКА&pdate=31.01.2003&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.06.2015 18:11:35
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+pseri:6503
+pnum:871168
+pkem:НОВОУРАЛЬСКА
+pdate:31.01.2003
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&pseri=6503&pnum=871168&pkem=НОВОУРАЛЬСКА&pdate=31.01.2003&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:40:40
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:40:41
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:44:18
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:44:19
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pkem:тест
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pkem=тест&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:46:25
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:46:26
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:57:10
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:57:11
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:58:41
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:58:42
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:59:43
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 11:59:43
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:01:33
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:01:33
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:тест
+lmesto:тест
+propcity:новоуральск
+propul:тест
+projcity:новоуральск
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=тест&lmesto=тест&propcity=новоуральск&propul=тест&projcity=новоуральск&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:07:25
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 12:07:26
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 12:09:06
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+pseri:6503
+pnum:871168
+pkem:НОВОУРАЛЬСКА
+pdate:31.01.2003
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СТРОИТЕЛЕЙ
+propul:СТРОИТЕЛЕЙ
+true_nbki:9
+/nbki.php?lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&pseri=6503&pnum=871168&pkem=НОВОУРАЛЬСКА&pdate=31.01.2003&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СТРОИТЕЛЕЙ&propul=СТРОИТЕЛЕЙ&true_nbki=9&
+
+------------------------------
+04.07.2015 12:09:06
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+pseri:6503
+pnum:871168
+pkem:НОВОУРАЛЬСКА
+pdate:31.01.2003
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СТРОИТЕЛЕЙ
+propul:СТРОИТЕЛЕЙ
+true_nbki:9
+/nbki-xml.php?lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&pseri=6503&pnum=871168&pkem=НОВОУРАЛЬСКА&pdate=31.01.2003&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СТРОИТЕЛЕЙ&propul=СТРОИТЕЛЕЙ&true_nbki=9&
+
+------------------------------
+04.07.2015 12:10:49
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+pseri:6503
+pnum:871168
+pkem:НОВОУРАЛЬСКА
+pdate:31.01.2003
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СТРОИТЕЛЕЙ
+propul:СТРОИТЕЛЕЙ
+true_nbki:9
+/nbki.php?lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&pseri=6503&pnum=871168&pkem=НОВОУРАЛЬСКА&pdate=31.01.2003&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СТРОИТЕЛЕЙ&propul=СТРОИТЕЛЕЙ&true_nbki=9&
+
+------------------------------
+04.07.2015 12:10:50
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+pseri:6503
+pnum:871168
+pkem:НОВОУРАЛЬСКА
+pdate:31.01.2003
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СТРОИТЕЛЕЙ
+propul:СТРОИТЕЛЕЙ
+true_nbki:9
+/nbki-xml.php?lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&pseri=6503&pnum=871168&pkem=НОВОУРАЛЬСКА&pdate=31.01.2003&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СТРОИТЕЛЕЙ&propul=СТРОИТЕЛЕЙ&true_nbki=9&
+
+------------------------------
+04.07.2015 12:18:43
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:18:44
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:28:35
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:28:36
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:29:31
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:29:32
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:30:13
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:30:13
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:30:35
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:30:35
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:32:43
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:32:44
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:32:49
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:32:49
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:33:14
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:33:14
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:33:44
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:33:44
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:34:46
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:34:46
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:35:09
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:35:09
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:36:46
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:36:46
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:36:50
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:36:50
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:37:43
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:37:43
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:37:50
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:37:50
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:37:56
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:37:56
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:38:03
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:38:03
+ldate:06.08.1980
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=06.08.1980&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:38:18
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:38:18
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:38:49
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:38:50
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:39:33
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:39:33
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:40:40
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:40:41
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:41:05
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:41:05
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:41:26
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:41:26
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 12:43:29
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 12:43:29
+lfam:Антропов
+lname:Андрей
+lotch:Анатольевич
+ldate:12.04.1965
+pseri:6509
+pnum:828094
+pkem:ЛЕНИНСКИМ РУВД ЕКАТЕ
+pdate:20.04.2010
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Андрей&lotch=Анатольевич&ldate=12.04.1965&pseri=6509&pnum=828094&pkem=ЛЕНИНСКИМ+РУВД+ЕКАТЕ&pdate=20.04.2010&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 13:11:51
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:03.02.1988
+pseri:6503
+pnum:993142
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА АСБЕСТА СВ
+pdate:24.03.2003
+pmesto:АСБЕСТ
+lmesto:АСБЕСТ
+propcity:АСБЕСТ
+projcity:АСБЕСТ
+projul:КЛАРЫ ЦЕТКИН
+propul:КЛАРЫ ЦЕТКИН
+true_nbki:9
+/nbki.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=03.02.1988&pseri=6503&pnum=993142&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+АСБЕСТА+СВ&pdate=24.03.2003&pmesto=АСБЕСТ&lmesto=АСБЕСТ&propcity=АСБЕСТ&projcity=АСБЕСТ&projul=КЛАРЫ+ЦЕТКИН&propul=КЛАРЫ+ЦЕТКИН&true_nbki=9&
+
+------------------------------
+04.07.2015 13:11:53
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:03.02.1988
+pseri:6503
+pnum:993142
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА АСБЕСТА СВ
+pdate:24.03.2003
+pmesto:АСБЕСТ
+lmesto:АСБЕСТ
+propcity:АСБЕСТ
+projcity:АСБЕСТ
+projul:КЛАРЫ ЦЕТКИН
+propul:КЛАРЫ ЦЕТКИН
+true_nbki:9
+/nbki-xml.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=03.02.1988&pseri=6503&pnum=993142&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+АСБЕСТА+СВ&pdate=24.03.2003&pmesto=АСБЕСТ&lmesto=АСБЕСТ&propcity=АСБЕСТ&projcity=АСБЕСТ&projul=КЛАРЫ+ЦЕТКИН&propul=КЛАРЫ+ЦЕТКИН&true_nbki=9&
+
+------------------------------
+04.07.2015 13:15:09
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:24.04.1988
+pseri:6507
+pnum:260775
+pkem:НОВОУРАЛЬСКА
+pdate:06.05.2008
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:АКАДЕМИКА КИКОИНА
+propul:АКАДЕМИКА КИКОИНА
+true_nbki:9
+/nbki.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=24.04.1988&pseri=6507&pnum=260775&pkem=НОВОУРАЛЬСКА&pdate=06.05.2008&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=АКАДЕМИКА+КИКОИНА&propul=АКАДЕМИКА+КИКОИНА&true_nbki=9&
+
+------------------------------
+04.07.2015 13:15:09
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:24.04.1988
+pseri:6507
+pnum:260775
+pkem:НОВОУРАЛЬСКА
+pdate:06.05.2008
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:АКАДЕМИКА КИКОИНА
+propul:АКАДЕМИКА КИКОИНА
+true_nbki:9
+/nbki-xml.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=24.04.1988&pseri=6507&pnum=260775&pkem=НОВОУРАЛЬСКА&pdate=06.05.2008&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=АКАДЕМИКА+КИКОИНА&propul=АКАДЕМИКА+КИКОИНА&true_nbki=9&
+
+------------------------------
+04.07.2015 13:19:35
+ldate:61.19.1012
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=61.19.1012&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:19:35
+ldate:61.19.1012
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=61.19.1012&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:20:13
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:03.02.1988
+pseri:6503
+pnum:993142
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА АСБЕСТА СВ
+pdate:24.03.2003
+pmesto:АСБЕСТ
+lmesto:АСБЕСТ
+propcity:АСБЕСТ
+projcity:АСБЕСТ
+projul:КЛАРЫ ЦЕТКИН
+propul:КЛАРЫ ЦЕТКИН
+true_nbki:9
+/nbki.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=03.02.1988&pseri=6503&pnum=993142&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+АСБЕСТА+СВ&pdate=24.03.2003&pmesto=АСБЕСТ&lmesto=АСБЕСТ&propcity=АСБЕСТ&projcity=АСБЕСТ&projul=КЛАРЫ+ЦЕТКИН&propul=КЛАРЫ+ЦЕТКИН&true_nbki=9&
+
+------------------------------
+04.07.2015 13:20:14
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:03.02.1988
+pseri:6503
+pnum:993142
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА АСБЕСТА СВ
+pdate:24.03.2003
+pmesto:АСБЕСТ
+lmesto:АСБЕСТ
+propcity:АСБЕСТ
+projcity:АСБЕСТ
+projul:КЛАРЫ ЦЕТКИН
+propul:КЛАРЫ ЦЕТКИН
+true_nbki:9
+/nbki-xml.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=03.02.1988&pseri=6503&pnum=993142&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+АСБЕСТА+СВ&pdate=24.03.2003&pmesto=АСБЕСТ&lmesto=АСБЕСТ&propcity=АСБЕСТ&projcity=АСБЕСТ&projul=КЛАРЫ+ЦЕТКИН&propul=КЛАРЫ+ЦЕТКИН&true_nbki=9&
+
+------------------------------
+04.07.2015 13:22:33
+ldate:89.19.1809
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=89.19.1809&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:22:33
+ldate:89.19.1809
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=89.19.1809&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:22:53
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:25.05.1985
+pseri:7104
+pnum:289087
+pkem:ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ ОТДЕЛ ВНУТРЕННИХ ДЕЛ ВАГАЙСКОГО РАЙОНА ТЮМЕНСКОЙ ОБЛАСТИ
+pdate:18.08.2005
+pmesto:ПОГОСТ
+lmesto:ПОГОСТ
+propcity:ПОГОСТ
+projcity:ПОГОСТ
+projul:НАГОРНАЯ
+propul:НАГОРНАЯ
+true_nbki:9
+/nbki.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=25.05.1985&pseri=7104&pnum=289087&pkem=ГОСУДАРСТВЕННОЕ+УЧРЕЖДЕНИЕ+ОТДЕЛ+ВНУТРЕННИХ+ДЕЛ+ВАГАЙСКОГО+РАЙОНА+ТЮМЕНСКОЙ+ОБЛАСТИ&pdate=18.08.2005&pmesto=ПОГОСТ&lmesto=ПОГОСТ&propcity=ПОГОСТ&projcity=ПОГОСТ&projul=НАГОРНАЯ&propul=НАГОРНАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 13:22:53
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:25.05.1985
+pseri:7104
+pnum:289087
+pkem:ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ ОТДЕЛ ВНУТРЕННИХ ДЕЛ ВАГАЙСКОГО РАЙОНА ТЮМЕНСКОЙ ОБЛАСТИ
+pdate:18.08.2005
+pmesto:ПОГОСТ
+lmesto:ПОГОСТ
+propcity:ПОГОСТ
+projcity:ПОГОСТ
+projul:НАГОРНАЯ
+propul:НАГОРНАЯ
+true_nbki:9
+/nbki-xml.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=25.05.1985&pseri=7104&pnum=289087&pkem=ГОСУДАРСТВЕННОЕ+УЧРЕЖДЕНИЕ+ОТДЕЛ+ВНУТРЕННИХ+ДЕЛ+ВАГАЙСКОГО+РАЙОНА+ТЮМЕНСКОЙ+ОБЛАСТИ&pdate=18.08.2005&pmesto=ПОГОСТ&lmesto=ПОГОСТ&propcity=ПОГОСТ&projcity=ПОГОСТ&projul=НАГОРНАЯ&propul=НАГОРНАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 13:23:11
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:26.07.1986
+pseri:6505
+pnum:879522
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:ЛЕНИНА
+propul:ЛЕНИНА
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=26.07.1986&pseri=6505&pnum=879522&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=ЛЕНИНА&propul=ЛЕНИНА&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.07.2015 13:23:12
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:26.07.1986
+pseri:6505
+pnum:879522
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:ЛЕНИНА
+propul:ЛЕНИНА
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki-xml.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=26.07.1986&pseri=6505&pnum=879522&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=ЛЕНИНА&propul=ЛЕНИНА&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.07.2015 13:23:33
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:26.07.1986
+pseri:6505
+pnum:879522
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:ЛЕНИНА
+propul:ЛЕНИНА
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=26.07.1986&pseri=6505&pnum=879522&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=ЛЕНИНА&propul=ЛЕНИНА&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.07.2015 13:23:33
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:26.07.1986
+pseri:6505
+pnum:879522
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:ЛЕНИНА
+propul:ЛЕНИНА
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki-xml.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=26.07.1986&pseri=6505&pnum=879522&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=ЛЕНИНА&propul=ЛЕНИНА&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.07.2015 13:24:19
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:26.07.1986
+pseri:6505
+pnum:879522
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:ЛЕНИНА
+propul:ЛЕНИНА
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=26.07.1986&pseri=6505&pnum=879522&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=ЛЕНИНА&propul=ЛЕНИНА&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.07.2015 13:24:19
+lfam:Чеснокова
+lname:Оксана
+lotch:Игоревна
+ldate:26.07.1986
+pseri:6505
+pnum:879522
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:ЛЕНИНА
+propul:ЛЕНИНА
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki-xml.php?lfam=Чеснокова&lname=Оксана&lotch=Игоревна&ldate=26.07.1986&pseri=6505&pnum=879522&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=ЛЕНИНА&propul=ЛЕНИНА&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.07.2015 13:28:04
+ldate:01.01.1949
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1949&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:28:04
+ldate:01.01.1949
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1949&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:29:12
+ldate:20.02.1984
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=20.02.1984&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:29:12
+ldate:20.02.1984
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=20.02.1984&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:30:46
+lfam:Русаков
+lname:Андрей
+lotch:Александрович
+ldate:20.02.1984
+pseri:6505
+pnum:135224
+pkem:Кировским РУВД г.Екатеринбурга
+pdate:14.05.2004
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СЕРГЕЯ ДУДИНА
+propul:СЕРГЕЯ ДУДИНА
+true_nbki:9
+/nbki.php?lfam=Русаков&lname=Андрей&lotch=Александрович&ldate=20.02.1984&pseri=6505&pnum=135224&pkem=Кировским+РУВД+г.Екатеринбурга&pdate=14.05.2004&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СЕРГЕЯ+ДУДИНА&propul=СЕРГЕЯ+ДУДИНА&true_nbki=9&
+
+------------------------------
+04.07.2015 13:30:47
+lfam:Русаков
+lname:Андрей
+lotch:Александрович
+ldate:20.02.1984
+pseri:6505
+pnum:135224
+pkem:Кировским РУВД г.Екатеринбурга
+pdate:14.05.2004
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СЕРГЕЯ ДУДИНА
+propul:СЕРГЕЯ ДУДИНА
+true_nbki:9
+/nbki-xml.php?lfam=Русаков&lname=Андрей&lotch=Александрович&ldate=20.02.1984&pseri=6505&pnum=135224&pkem=Кировским+РУВД+г.Екатеринбурга&pdate=14.05.2004&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СЕРГЕЯ+ДУДИНА&propul=СЕРГЕЯ+ДУДИНА&true_nbki=9&
+
+------------------------------
+04.07.2015 13:31:34
+lfam:Русаков
+lname:Андрей
+lotch:Александрович
+ldate:20.02.1984
+pseri:6505
+pnum:135224
+pkem:Кировским РУВД г.Екатеринбурга
+pdate:14.05.2004
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СЕРГЕЯ ДУДИНА
+propul:СЕРГЕЯ ДУДИНА
+true_nbki:9
+/nbki.php?lfam=Русаков&lname=Андрей&lotch=Александрович&ldate=20.02.1984&pseri=6505&pnum=135224&pkem=Кировским+РУВД+г.Екатеринбурга&pdate=14.05.2004&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СЕРГЕЯ+ДУДИНА&propul=СЕРГЕЯ+ДУДИНА&true_nbki=9&
+
+------------------------------
+04.07.2015 13:31:34
+lfam:Русаков
+lname:Андрей
+lotch:Александрович
+ldate:20.02.1984
+pseri:6505
+pnum:135224
+pkem:Кировским РУВД г.Екатеринбурга
+pdate:14.05.2004
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:СЕРГЕЯ ДУДИНА
+propul:СЕРГЕЯ ДУДИНА
+true_nbki:9
+/nbki-xml.php?lfam=Русаков&lname=Андрей&lotch=Александрович&ldate=20.02.1984&pseri=6505&pnum=135224&pkem=Кировским+РУВД+г.Екатеринбурга&pdate=14.05.2004&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=СЕРГЕЯ+ДУДИНА&propul=СЕРГЕЯ+ДУДИНА&true_nbki=9&
+
+------------------------------
+04.07.2015 13:33:56
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:33:56
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:34:25
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:34:25
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:34:40
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 13:34:40
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 16:04:20
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 16:04:20
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 16:05:17
+lfam:Антропова
+lname:Елена
+lotch:Федоровна
+ldate:12.12.1968
+pseri:6597
+pnum:069936
+pkem:УВД ГОР. НОВОУРАЛЬСКА
+pdate:04.09.1998
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki.php?lfam=Антропова&lname=Елена&lotch=Федоровна&ldate=12.12.1968&pseri=6597&pnum=069936&pkem=УВД+ГОР.+НОВОУРАЛЬСКА&pdate=04.09.1998&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 16:05:20
+lfam:Антропова
+lname:Елена
+lotch:Федоровна
+ldate:12.12.1968
+pseri:6597
+pnum:069936
+pkem:УВД ГОР. НОВОУРАЛЬСКА
+pdate:04.09.1998
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki-xml.php?lfam=Антропова&lname=Елена&lotch=Федоровна&ldate=12.12.1968&pseri=6597&pnum=069936&pkem=УВД+ГОР.+НОВОУРАЛЬСКА&pdate=04.09.1998&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 16:05:43
+lfam:Антропова
+lname:Елена
+lotch:Федоровна
+ldate:12.12.1968
+pseri:6597
+pnum:069936
+pkem:УВД ГОР. НОВОУРАЛЬСКА
+pdate:04.09.1998
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki.php?lfam=Антропова&lname=Елена&lotch=Федоровна&ldate=12.12.1968&pseri=6597&pnum=069936&pkem=УВД+ГОР.+НОВОУРАЛЬСКА&pdate=04.09.1998&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 16:05:44
+lfam:Антропова
+lname:Елена
+lotch:Федоровна
+ldate:12.12.1968
+pseri:6597
+pnum:069936
+pkem:УВД ГОР. НОВОУРАЛЬСКА
+pdate:04.09.1998
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+true_nbki:9
+/nbki-xml.php?lfam=Антропова&lname=Елена&lotch=Федоровна&ldate=12.12.1968&pseri=6597&pnum=069936&pkem=УВД+ГОР.+НОВОУРАЛЬСКА&pdate=04.09.1998&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:09
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:10
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki-xml.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:11
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:11
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:18
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:19
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki-xml.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:26
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:26
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki-xml.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:40
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.07.2015 18:33:40
+lfam:Шунаева
+lname:Любовь
+lotch:Евгеньевна
+ldate:18.04.1981
+pseri:6503
+pnum:035738
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА КУШВИНСКА
+pdate:07.06.2002
+pmesto:КУШВА
+lmesto:КУШВА
+propcity:КУШВА
+projcity:КУШВА
+projul:СТАНЦИОННАЯ
+propul:СТАНЦИОННАЯ
+true_nbki:9
+/nbki-xml.php?lfam=Шунаева&lname=Любовь&lotch=Евгеньевна&ldate=18.04.1981&pseri=6503&pnum=035738&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+КУШВИНСКА&pdate=07.06.2002&pmesto=КУШВА&lmesto=КУШВА&propcity=КУШВА&projcity=КУШВА&projul=СТАНЦИОННАЯ&propul=СТАНЦИОННАЯ&true_nbki=9&
+
+------------------------------
+04.08.2015 11:10:10
+lfam:Мамадеева
+lname:Елена
+lotch:Геннадьевна
+ldate:01.03.1973
+pseri:6501
+pnum:847622
+pkem:П-УР
+pdate:20.08.2001
+pmesto:ПЕРВОУРАЛЬСК
+lmesto:ПЕРВОУРАЛЬСК
+propcity:ПЕРВОУРАЛЬСК
+projcity:ПЕРВОУРАЛЬСК
+projul:СЛЕСАРЕЙ
+propul:СЛЕСАРЕЙ
+true_nbki:9
+/nbki.php?lfam=Мамадеева&lname=Елена&lotch=Геннадьевна&ldate=01.03.1973&pseri=6501&pnum=847622&pkem=П-УР&pdate=20.08.2001&pmesto=ПЕРВОУРАЛЬСК&lmesto=ПЕРВОУРАЛЬСК&propcity=ПЕРВОУРАЛЬСК&projcity=ПЕРВОУРАЛЬСК&projul=СЛЕСАРЕЙ&propul=СЛЕСАРЕЙ&true_nbki=9&
+
+------------------------------
+04.08.2015 11:10:13
+lfam:Мамадеева
+lname:Елена
+lotch:Геннадьевна
+ldate:01.03.1973
+pseri:6501
+pnum:847622
+pkem:П-УР
+pdate:20.08.2001
+pmesto:ПЕРВОУРАЛЬСК
+lmesto:ПЕРВОУРАЛЬСК
+propcity:ПЕРВОУРАЛЬСК
+projcity:ПЕРВОУРАЛЬСК
+projul:СЛЕСАРЕЙ
+propul:СЛЕСАРЕЙ
+true_nbki:9
+/nbki-xml.php?lfam=Мамадеева&lname=Елена&lotch=Геннадьевна&ldate=01.03.1973&pseri=6501&pnum=847622&pkem=П-УР&pdate=20.08.2001&pmesto=ПЕРВОУРАЛЬСК&lmesto=ПЕРВОУРАЛЬСК&propcity=ПЕРВОУРАЛЬСК&projcity=ПЕРВОУРАЛЬСК&projul=СЛЕСАРЕЙ&propul=СЛЕСАРЕЙ&true_nbki=9&
+
+------------------------------
+04.08.2015 11:10:49
+lfam:Мамадеева
+lname:Елена
+lotch:Геннадьевна
+ldate:01.03.1973
+pseri:6501
+pnum:847622
+pkem:П-УР
+pdate:20.08.2001
+pmesto:ПЕРВОУРАЛЬСК
+lmesto:ПЕРВОУРАЛЬСК
+propcity:ПЕРВОУРАЛЬСК
+projcity:ПЕРВОУРАЛЬСК
+projul:СЛЕСАРЕЙ
+propul:СЛЕСАРЕЙ
+true_nbki:9
+/nbki.php?lfam=Мамадеева&lname=Елена&lotch=Геннадьевна&ldate=01.03.1973&pseri=6501&pnum=847622&pkem=П-УР&pdate=20.08.2001&pmesto=ПЕРВОУРАЛЬСК&lmesto=ПЕРВОУРАЛЬСК&propcity=ПЕРВОУРАЛЬСК&projcity=ПЕРВОУРАЛЬСК&projul=СЛЕСАРЕЙ&propul=СЛЕСАРЕЙ&true_nbki=9&
+
+------------------------------
+04.08.2015 11:10:50
+lfam:Мамадеева
+lname:Елена
+lotch:Геннадьевна
+ldate:01.03.1973
+pseri:6501
+pnum:847622
+pkem:П-УР
+pdate:20.08.2001
+pmesto:ПЕРВОУРАЛЬСК
+lmesto:ПЕРВОУРАЛЬСК
+propcity:ПЕРВОУРАЛЬСК
+projcity:ПЕРВОУРАЛЬСК
+projul:СЛЕСАРЕЙ
+propul:СЛЕСАРЕЙ
+true_nbki:9
+/nbki-xml.php?lfam=Мамадеева&lname=Елена&lotch=Геннадьевна&ldate=01.03.1973&pseri=6501&pnum=847622&pkem=П-УР&pdate=20.08.2001&pmesto=ПЕРВОУРАЛЬСК&lmesto=ПЕРВОУРАЛЬСК&propcity=ПЕРВОУРАЛЬСК&projcity=ПЕРВОУРАЛЬСК&projul=СЛЕСАРЕЙ&propul=СЛЕСАРЕЙ&true_nbki=9&
+
+------------------------------
+04.08.2015 18:44:40
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.08.2015 18:44:41
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.09.2015 13:20:28
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.09.2015 13:20:28
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.09.2015 13:30:27
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.09.2015 13:30:27
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.09.2015 13:32:05
+lfam:Нуретдинов
+lname:Эльдар
+lotch:Эльдарович
+ldate:15.11.1986
+pseri:5706
+pnum:993580
+pkem:УВД ПЕРМЬ
+pdate:19.12.2006
+pmesto:ЕКАТЕРИНБУРГ
+lmesto:ЕКАТЕРИНБУРГ
+propcity:ЕКАТЕРИНБУРГ
+projcity:ЕКАТЕРИНБУРГ
+projul:РАЕВСКОГО
+propul:РАЕВСКОГО
+true_nbki:9
+/nbki.php?lfam=Нуретдинов&lname=Эльдар&lotch=Эльдарович&ldate=15.11.1986&pseri=5706&pnum=993580&pkem=УВД+ПЕРМЬ&pdate=19.12.2006&pmesto=ЕКАТЕРИНБУРГ&lmesto=ЕКАТЕРИНБУРГ&propcity=ЕКАТЕРИНБУРГ&projcity=ЕКАТЕРИНБУРГ&projul=РАЕВСКОГО&propul=РАЕВСКОГО&true_nbki=9&
+
+------------------------------
+04.09.2015 13:32:06
+lfam:Нуретдинов
+lname:Эльдар
+lotch:Эльдарович
+ldate:15.11.1986
+pseri:5706
+pnum:993580
+pkem:УВД ПЕРМЬ
+pdate:19.12.2006
+pmesto:ЕКАТЕРИНБУРГ
+lmesto:ЕКАТЕРИНБУРГ
+propcity:ЕКАТЕРИНБУРГ
+projcity:ЕКАТЕРИНБУРГ
+projul:РАЕВСКОГО
+propul:РАЕВСКОГО
+true_nbki:9
+/nbki-xml.php?lfam=Нуретдинов&lname=Эльдар&lotch=Эльдарович&ldate=15.11.1986&pseri=5706&pnum=993580&pkem=УВД+ПЕРМЬ&pdate=19.12.2006&pmesto=ЕКАТЕРИНБУРГ&lmesto=ЕКАТЕРИНБУРГ&propcity=ЕКАТЕРИНБУРГ&projcity=ЕКАТЕРИНБУРГ&projul=РАЕВСКОГО&propul=РАЕВСКОГО&true_nbki=9&
+
+------------------------------
+04.09.2015 13:37:23
+lfam:Нуретдинов
+lname:Эльдар
+lotch:Эльдарович
+ldate:15.11.1986
+pseri:5706
+pnum:993580
+pkem:УВД ПЕРМЬ
+pdate:19.12.2006
+pmesto:ЕКАТЕРИНБУРГ
+lmesto:ЕКАТЕРИНБУРГ
+propcity:ЕКАТЕРИНБУРГ
+projcity:ЕКАТЕРИНБУРГ
+projul:РАЕВСКОГО
+propul:РАЕВСКОГО
+true_nbki:1
+/nbki.php?lfam=Нуретдинов&lname=Эльдар&lotch=Эльдарович&ldate=15.11.1986&pseri=5706&pnum=993580&pkem=УВД+ПЕРМЬ&pdate=19.12.2006&pmesto=ЕКАТЕРИНБУРГ&lmesto=ЕКАТЕРИНБУРГ&propcity=ЕКАТЕРИНБУРГ&projcity=ЕКАТЕРИНБУРГ&projul=РАЕВСКОГО&propul=РАЕВСКОГО&true_nbki=1&
+
+------------------------------
+04.09.2015 13:37:24
+lfam:Нуретдинов
+lname:Эльдар
+lotch:Эльдарович
+ldate:15.11.1986
+pseri:5706
+pnum:993580
+pkem:УВД ПЕРМЬ
+pdate:19.12.2006
+pmesto:ЕКАТЕРИНБУРГ
+lmesto:ЕКАТЕРИНБУРГ
+propcity:ЕКАТЕРИНБУРГ
+projcity:ЕКАТЕРИНБУРГ
+projul:РАЕВСКОГО
+propul:РАЕВСКОГО
+true_nbki:1
+/nbki-xml.php?lfam=Нуретдинов&lname=Эльдар&lotch=Эльдарович&ldate=15.11.1986&pseri=5706&pnum=993580&pkem=УВД+ПЕРМЬ&pdate=19.12.2006&pmesto=ЕКАТЕРИНБУРГ&lmesto=ЕКАТЕРИНБУРГ&propcity=ЕКАТЕРИНБУРГ&projcity=ЕКАТЕРИНБУРГ&projul=РАЕВСКОГО&propul=РАЕВСКОГО&true_nbki=1&
+
+------------------------------
+04.09.2015 13:38:52
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:1
+/nbki.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=1&
+
+------------------------------
+04.09.2015 13:38:52
+ldate:01.01.1960
+pseri:1111
+pnum:111111
+pkem:тест
+pdate:01.01.2001
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:1
+/nbki-xml.php?ldate=01.01.1960&pseri=1111&pnum=111111&pkem=тест&pdate=01.01.2001&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=1&
+
+------------------------------
+04.09.2015 13:39:37
+lfam:Нуретдинов
+lname:Эльдар
+lotch:Эльдарович
+ldate:15.11.1986
+pseri:5706
+pnum:993580
+pkem:УВД ПЕРМЬ
+pdate:19.12.2006
+pmesto:ЕКАТЕРИНБУРГ
+lmesto:ЕКАТЕРИНБУРГ
+propcity:ЕКАТЕРИНБУРГ
+projcity:ЕКАТЕРИНБУРГ
+projul:РАЕВСКОГО
+propul:РАЕВСКОГО
+true_nbki:1
+/nbki.php?lfam=Нуретдинов&lname=Эльдар&lotch=Эльдарович&ldate=15.11.1986&pseri=5706&pnum=993580&pkem=УВД+ПЕРМЬ&pdate=19.12.2006&pmesto=ЕКАТЕРИНБУРГ&lmesto=ЕКАТЕРИНБУРГ&propcity=ЕКАТЕРИНБУРГ&projcity=ЕКАТЕРИНБУРГ&projul=РАЕВСКОГО&propul=РАЕВСКОГО&true_nbki=1&
+
+------------------------------
+04.09.2015 13:39:38
+lfam:Нуретдинов
+lname:Эльдар
+lotch:Эльдарович
+ldate:15.11.1986
+pseri:5706
+pnum:993580
+pkem:УВД ПЕРМЬ
+pdate:19.12.2006
+pmesto:ЕКАТЕРИНБУРГ
+lmesto:ЕКАТЕРИНБУРГ
+propcity:ЕКАТЕРИНБУРГ
+projcity:ЕКАТЕРИНБУРГ
+projul:РАЕВСКОГО
+propul:РАЕВСКОГО
+true_nbki:1
+/nbki-xml.php?lfam=Нуретдинов&lname=Эльдар&lotch=Эльдарович&ldate=15.11.1986&pseri=5706&pnum=993580&pkem=УВД+ПЕРМЬ&pdate=19.12.2006&pmesto=ЕКАТЕРИНБУРГ&lmesto=ЕКАТЕРИНБУРГ&propcity=ЕКАТЕРИНБУРГ&projcity=ЕКАТЕРИНБУРГ&projul=РАЕВСКОГО&propul=РАЕВСКОГО&true_nbki=1&
+
+------------------------------
+04.09.2015 15:05:25
+numid:19375
+true_nbki:9
+lfam:Белянин
+lname:Евгений
+lotch:Витальевич
+ldate:01.01.1972
+lmesto:г. Свердловск 44
+pseri:9204
+pnum:488600
+pdate:20.01.2001
+region:66
+pkem:УВД г. Новоуральска
+pmesto:УВД г. Новоуральска
+propcity:рп. Верх-Нейвинский
+propul:ул. Ленина
+projcity:рп. Верх-Нейвинский
+projul:ул. Ленина
+id:107
+/nbki.php?numid=19375&true_nbki=9&lfam=Белянин&lname=Евгений&lotch=Витальевич&ldate=01.01.1972&lmesto=г.+Свердловск+44&pseri=9204&pnum=488600&pdate=20.01.2001&region=66&pkem=УВД+г.+Новоуральска&pmesto=УВД+г.+Новоуральска&propcity=рп.+Верх-Нейвинский&propul=ул.+Ленина&projcity=рп.+Верх-Нейвинский&projul=ул.+Ленина&id=107&
+
+------------------------------
+04.10.2015 17:57:14
+numid:49211
+true_nbki:1
+lfam:Алимов
+lname:Карим
+lotch:Юрьевич
+ldate:28.10.1985
+lmesto:г. Свердловск
+pseri:6508
+pnum:563036
+pdate:28.11.2008
+region:66
+pkem:Отделом УФМС Росии по Свердловкой обл. в Верх-Исетском р-не гор.Екатеринбурга
+pmesto:Отделом УФМС Росии по Свердловкой обл. в Верх-Исетском р-не гор.Екатеринбурга
+propcity:г. Новоуральск
+propul:ул. Победы
+projcity:г. Новоуральск
+projul:ул. Победы
+id:111
+/nbki.php?numid=49211&true_nbki=1&lfam=Алимов&lname=Карим&lotch=Юрьевич&ldate=28.10.1985&lmesto=г.+Свердловск&pseri=6508&pnum=563036&pdate=28.11.2008&region=66&pkem=Отделом+УФМС+Росии+по+Свердловкой+обл.+в+Верх-Исетском+р-не+гор.Екатеринбурга&pmesto=Отделом+УФМС+Росии+по+Свердловкой+обл.+в+Верх-Исетском+р-не+гор.Екатеринбурга&propcity=г.+Новоуральск&propul=ул.+Победы&projcity=г.+Новоуральск&projul=ул.+Победы&id=111&
+
+------------------------------
+04.11.2015 18:13:57
+numid:49274
+true_nbki:1
+lfam:Томилов
+lname:Александр
+lotch:Сергеевич
+ldate:03.10.1976
+lmesto:гор.СВердловск-44
+pseri:6503
+pnum:059122
+pdate:01.07.2002
+region:66
+pkem:УВД гор.Новоуральска свердловской обл.
+pmesto:УВД гор.Новоуральска свердловской обл.
+propcity:г. Новоуральск
+propul:ул. Корнилова
+projcity:г. Новоуральск
+projul:ул. Корнилова
+id:113
+/nbki.php?numid=49274&true_nbki=1&lfam=Томилов&lname=Александр&lotch=Сергеевич&ldate=03.10.1976&lmesto=гор.СВердловск-44&pseri=6503&pnum=059122&pdate=01.07.2002&region=66&pkem=УВД+гор.Новоуральска+свердловской+обл.&pmesto=УВД+гор.Новоуральска+свердловской+обл.&propcity=г.+Новоуральск&propul=ул.+Корнилова&projcity=г.+Новоуральск&projul=ул.+Корнилова&id=113&
+
+------------------------------
+04.15.2015 14:20:28
+numid:49460
+true_nbki:1
+lfam:Василец
+lname:Алена
+lotch:Владимировна
+ldate:25.05.1962
+lmesto:гор.Свердловск-44
+pseri:6507
+pnum:047543
+pdate:08.06.2007
+region:66
+pkem:Отделом УФМС России п свердловской области в городе Новоуральске
+pmesto:Отделом УФМС России п свердловской области в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Чурина
+projcity:г. Новоуральск
+projul:ул. Чурина
+id:118
+/nbki.php?numid=49460&true_nbki=1&lfam=Василец&lname=Алена&lotch=Владимировна&ldate=25.05.1962&lmesto=гор.Свердловск-44&pseri=6507&pnum=047543&pdate=08.06.2007&region=66&pkem=Отделом+УФМС+России+п+свердловской+области+в+городе+Новоуральске&pmesto=Отделом+УФМС+России+п+свердловской+области+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Чурина&projcity=г.+Новоуральск&projul=ул.+Чурина&id=118&
+
+------------------------------
+04.15.2015 15:54:03
+numid:49470
+true_nbki:1
+lfam:Тихонова
+lname:Елена
+lotch:Аркадьевна
+ldate:19.12.1972
+lmesto:С.Тарасково Невьянского р-на свердловской обл.
+pseri:6513
+pnum:638370
+pdate:18.08.2013
+region:66
+pkem:отделением УФМС России по свердловской области в г.Новоуральске
+pmesto:отделением УФМС России по свердловской области в г.Новоуральске
+propcity:г. Новоуральск
+propul:б-р. Академика Кикоина
+projcity:г. Новоуральск
+projul:б-р. Академика Кикоина
+id:119
+/nbki.php?numid=49470&true_nbki=1&lfam=Тихонова&lname=Елена&lotch=Аркадьевна&ldate=19.12.1972&lmesto=С.Тарасково+Невьянского+р-на+свердловской+обл.&pseri=6513&pnum=638370&pdate=18.08.2013&region=66&pkem=отделением+УФМС+России+по+свердловской+области+в+г.Новоуральске&pmesto=отделением+УФМС+России+по+свердловской+области+в+г.Новоуральске&propcity=г.+Новоуральск&propul=б-р.+Академика+Кикоина&projcity=г.+Новоуральск&projul=б-р.+Академика+Кикоина&id=119&
+
+------------------------------
+04.16.2015 17:15:20
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:15:22
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:17:33
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:24.04.1988
+pseri:6507
+pnum:260775
+pkem:НОВОУРАЛЬСКА
+pdate:13.03.2008
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=24.04.1988&pseri=6507&pnum=260775&pkem=НОВОУРАЛЬСКА&pdate=13.03.2008&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:17:34
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:24.04.1988
+pseri:6507
+pnum:260775
+pkem:НОВОУРАЛЬСКА
+pdate:13.03.2008
+pmesto:тест
+lmesto:тест
+propcity:тест
+propul:тест
+projcity:тест
+projul:тест
+true_nbki:9
+/nbki-xml.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=24.04.1988&pseri=6507&pnum=260775&pkem=НОВОУРАЛЬСКА&pdate=13.03.2008&pmesto=тест&lmesto=тест&propcity=тест&propul=тест&projcity=тест&projul=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:17:57
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:03.02.1988
+pseri:6503
+pnum:993142
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА АСБЕСТА СВ
+pdate:24.03.2003
+pmesto:АСБЕСТ
+lmesto:АСБЕСТ
+propcity:АСБЕСТ
+projcity:АСБЕСТ
+projul:КЛАРЫ ЦЕТКИН
+propul:КЛАРЫ ЦЕТКИН
+true_nbki:9
+/nbki.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=03.02.1988&pseri=6503&pnum=993142&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+АСБЕСТА+СВ&pdate=24.03.2003&pmesto=АСБЕСТ&lmesto=АСБЕСТ&propcity=АСБЕСТ&projcity=АСБЕСТ&projul=КЛАРЫ+ЦЕТКИН&propul=КЛАРЫ+ЦЕТКИН&true_nbki=9&
+
+------------------------------
+04.16.2015 17:17:58
+lfam:Жуков
+lname:Андрей
+lotch:Валерьевич
+ldate:03.02.1988
+pseri:6503
+pnum:993142
+pkem:ОТДЕЛОМ ВНУТРЕННИХ ДЕЛ ГОРОДА АСБЕСТА СВ
+pdate:24.03.2003
+pmesto:АСБЕСТ
+lmesto:АСБЕСТ
+propcity:АСБЕСТ
+projcity:АСБЕСТ
+projul:КЛАРЫ ЦЕТКИН
+propul:КЛАРЫ ЦЕТКИН
+true_nbki:9
+/nbki-xml.php?lfam=Жуков&lname=Андрей&lotch=Валерьевич&ldate=03.02.1988&pseri=6503&pnum=993142&pkem=ОТДЕЛОМ+ВНУТРЕННИХ+ДЕЛ+ГОРОДА+АСБЕСТА+СВ&pdate=24.03.2003&pmesto=АСБЕСТ&lmesto=АСБЕСТ&propcity=АСБЕСТ&projcity=АСБЕСТ&projul=КЛАРЫ+ЦЕТКИН&propul=КЛАРЫ+ЦЕТКИН&true_nbki=9&
+
+------------------------------
+04.16.2015 17:38:45
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.16.2015 17:39:50
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.16.2015 17:41:35
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:42:42
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:45:54
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:45:55
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.16.2015 17:46:53
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.16.2015 17:48:00
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.16.2015 18:31:19
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.16.2015 18:32:25
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.17.2015 01:03:04
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.17.2015 01:03:05
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.17.2015 10:48:35
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.17.2015 10:48:36
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:1
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=1&
+
+------------------------------
+04.17.2015 10:55:33
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 10:55:35
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 10:55:46
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 10:55:53
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 10:55:54
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 10:55:56
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 11:47:20
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 11:47:24
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 16:44:36
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 16:44:43
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:08.11.1987
+pseri:6503
+pnum:203078
+pdate:26.08.2002
+pmesto:НОВОУРАЛЬСК
+lmesto:НОВОУРАЛЬСК
+propcity:НОВОУРАЛЬСК
+projcity:НОВОУРАЛЬСК
+projul:КОРНИЛОВА
+propul:КОРНИЛОВА
+pkem:тест
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=08.11.1987&pseri=6503&pnum=203078&pdate=26.08.2002&pmesto=НОВОУРАЛЬСК&lmesto=НОВОУРАЛЬСК&propcity=НОВОУРАЛЬСК&projcity=НОВОУРАЛЬСК&projul=КОРНИЛОВА&propul=КОРНИЛОВА&pkem=тест&true_nbki=9&
+
+------------------------------
+04.17.2015 17:03:24
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:04.11.2004
+pseri:I-АИ
+pnum:842358
+pmesto:ТРОИЦКИЙ
+lmesto:ТРОИЦКИЙ
+propcity:ТРОИЦКИЙ
+projcity:ТРОИЦКИЙ
+projul:ДЗЕРЖИНСКОГО
+propul:ДЗЕРЖИНСКОГО
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=04.11.2004&pseri=I-АИ&pnum=842358&pmesto=ТРОИЦКИЙ&lmesto=ТРОИЦКИЙ&propcity=ТРОИЦКИЙ&projcity=ТРОИЦКИЙ&projul=ДЗЕРЖИНСКОГО&propul=ДЗЕРЖИНСКОГО&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.17.2015 17:03:25
+lfam:Антропов
+lname:Кирилл
+lotch:Андреевич
+ldate:04.11.2004
+pseri:I-АИ
+pnum:842358
+pmesto:ТРОИЦКИЙ
+lmesto:ТРОИЦКИЙ
+propcity:ТРОИЦКИЙ
+projcity:ТРОИЦКИЙ
+projul:ДЗЕРЖИНСКОГО
+propul:ДЗЕРЖИНСКОГО
+pkem:тест
+pdate:01.01.2001
+true_nbki:9
+/nbki-xml.php?lfam=Антропов&lname=Кирилл&lotch=Андреевич&ldate=04.11.2004&pseri=I-АИ&pnum=842358&pmesto=ТРОИЦКИЙ&lmesto=ТРОИЦКИЙ&propcity=ТРОИЦКИЙ&projcity=ТРОИЦКИЙ&projul=ДЗЕРЖИНСКОГО&propul=ДЗЕРЖИНСКОГО&pkem=тест&pdate=01.01.2001&true_nbki=9&
+
+------------------------------
+04.18.2015 15:16:15
+numid:49647
+true_nbki:1
+lfam:Носков
+lname:Сергей
+lotch:Владимрович
+ldate:15.07.1985
+lmesto:гор. Свердловск-44
+pseri:6509
+pnum:850907
+pdate:05.04.2010
+region:66
+pkem:Отделением УФМС России по Свердловской области в городе Лесном
+pmesto:Отделением УФМС России по Свердловской области в городе Лесном
+propcity:г. Новоуральск
+propul:ул. Автозаводская
+projcity:г. Новоуральск
+projul:ул. Автозаводская
+id:124
+/nbki.php?numid=49647&true_nbki=1&lfam=Носков&lname=Сергей&lotch=Владимрович&ldate=15.07.1985&lmesto=гор.+Свердловск-44&pseri=6509&pnum=850907&pdate=05.04.2010&region=66&pkem=Отделением+УФМС+России+по+Свердловской+области+в+городе+Лесном&pmesto=Отделением+УФМС+России+по+Свердловской+области+в+городе+Лесном&propcity=г.+Новоуральск&propul=ул.+Автозаводская&projcity=г.+Новоуральск&projul=ул.+Автозаводская&id=124&
+
+------------------------------
+04.19.2015 12:05:57
+numid:49671
+true_nbki:1
+lfam:Черкашина
+lname:Елена
+lotch:Николаевна
+ldate:01.08.1967
+lmesto:гор.Невьянск Свердловской обл.
+pseri:6511
+pnum:375122
+pdate:04.09.2012
+region:66
+pkem:Отделом УФМС России по Свердловской области в городе Новоуральске
+pmesto:Отделом УФМС России по Свердловской области в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Ленина
+projcity:г. Новоуральск
+projul:ул. Ленина
+id:125
+/nbki.php?numid=49671&true_nbki=1&lfam=Черкашина&lname=Елена&lotch=Николаевна&ldate=01.08.1967&lmesto=гор.Невьянск+Свердловской+обл.&pseri=6511&pnum=375122&pdate=04.09.2012&region=66&pkem=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&pmesto=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Ленина&projcity=г.+Новоуральск&projul=ул.+Ленина&id=125&
+
+------------------------------
+04.19.2015 16:40:42
+numid:49699
+true_nbki:1
+lfam:Васильев
+lname:Сергей
+lotch:Вениаминович
+ldate:11.03.1992
+lmesto:гор.Свердловск-44
+pseri:6511
+pnum:345862
+pdate:20.03.2012
+region:66
+pkem:Отделом УФМС России по свердловской области в городе Новоуральске
+pmesto:Отделом УФМС России по свердловской области в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Октябрьская
+projcity:г. Новоуральск
+projul:ул. Жигаловского
+id:126
+/nbki.php?numid=49699&true_nbki=1&lfam=Васильев&lname=Сергей&lotch=Вениаминович&ldate=11.03.1992&lmesto=гор.Свердловск-44&pseri=6511&pnum=345862&pdate=20.03.2012&region=66&pkem=Отделом+УФМС+России+по+свердловской+области+в+городе+Новоуральске&pmesto=Отделом+УФМС+России+по+свердловской+области+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Октябрьская&projcity=г.+Новоуральск&projul=ул.+Жигаловского&id=126&
+
+------------------------------
+04.21.2015 16:37:56
+numid:49824
+true_nbki:1
+lfam:Железников
+lname:Денис
+lotch:Александрович
+ldate:27.09.1980
+lmesto:гор. Ревда Свердловской обл.
+pseri:6509
+pnum:687951
+pdate:08.09.2009
+region:66
+pkem:Отделом УФМС России по Свердловской области в городе Новоуральске
+pmesto:Отделом УФМС России по Свердловской области в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Ленина
+projcity:г. Новоуральск
+projul:ул. Ленина
+id:129
+/nbki.php?numid=49824&true_nbki=1&lfam=Железников&lname=Денис&lotch=Александрович&ldate=27.09.1980&lmesto=гор.+Ревда+Свердловской+обл.&pseri=6509&pnum=687951&pdate=08.09.2009&region=66&pkem=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&pmesto=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Ленина&projcity=г.+Новоуральск&projul=ул.+Ленина&id=129&
+
+------------------------------
+04.21.2015 18:13:26
+numid:49831
+true_nbki:1
+lfam:Ложкина
+lname:Марина
+lotch:Сергеевна
+ldate:30.05.1978
+lmesto:пос. Верх-Нейвинск Невьянского р-на Свердловской обл.
+pseri:6505
+pnum:139148
+pdate:25.02.2004
+region:66
+pkem:управлением Внутренних Дел гор. Новоуральска Свердловской обл.
+pmesto:управлением Внутренних Дел гор. Новоуральска Свердловской обл.
+propcity:г. Новоуральск
+propul:ул. Победы
+projcity:г. Новоуральск
+projul:ул. Ленина
+id:130
+/nbki.php?numid=49831&true_nbki=1&lfam=Ложкина&lname=Марина&lotch=Сергеевна&ldate=30.05.1978&lmesto=пос.+Верх-Нейвинск+Невьянского+р-на+Свердловской+обл.&pseri=6505&pnum=139148&pdate=25.02.2004&region=66&pkem=управлением+Внутренних+Дел+гор.+Новоуральска+Свердловской+обл.&pmesto=управлением+Внутренних+Дел+гор.+Новоуральска+Свердловской+обл.&propcity=г.+Новоуральск&propul=ул.+Победы&projcity=г.+Новоуральск&projul=ул.+Ленина&id=130&
+
+------------------------------
+04.22.2015 10:28:52
+numid:49838
+true_nbki:1
+lfam:Рябинина
+lname:Светлана
+lotch:Алексеевна
+ldate:20.10.1962
+lmesto:С.Тарасково невьянского р-на Свердловской обл.
+pseri:6507
+pnum:259547
+pdate:15.02.2008
+region:66
+pkem:отделом УФМС России по свердловской области в городе Новоуральске
+pmesto:отделом УФМС России по свердловской области в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Ленина
+projcity:г. Новоуральск
+projul:ул. Ленина
+id:131
+/nbki.php?numid=49838&true_nbki=1&lfam=Рябинина&lname=Светлана&lotch=Алексеевна&ldate=20.10.1962&lmesto=С.Тарасково+невьянского+р-на+Свердловской+обл.&pseri=6507&pnum=259547&pdate=15.02.2008&region=66&pkem=отделом+УФМС+России+по+свердловской+области+в+городе+Новоуральске&pmesto=отделом+УФМС+России+по+свердловской+области+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Ленина&projcity=г.+Новоуральск&projul=ул.+Ленина&id=131&
+
+------------------------------
+04.22.2015 11:31:45
+pseri:6507
+pnum:260509
+pdate:16.04.2008
+pkem:уфмс
+pmesto:новоуральск
+lfam:антропов
+lname:каирилл
+lotch:андреевич
+ldate:08.11.1987
+lmesto:малышево
+propcity:новоуральск
+propul:корнилова
+region:66
+projcity:новоуральск
+projul:корнилова
+numid:123
+true_nbki:4
+id:132
+/nbki.php?pseri=6507&pnum=260509&pdate=16.04.2008&pkem=уфмс&pmesto=новоуральск&lfam=антропов&lname=каирилл&lotch=андреевич&ldate=08.11.1987&lmesto=малышево&propcity=новоуральск&propul=корнилова&region=66&projcity=новоуральск&projul=корнилова&numid=123&true_nbki=4&id=132&
+
+------------------------------
+04.22.2015 15:06:23
+numid:49868
+true_nbki:1
+lfam:Ладутько
+lname:Павел
+lotch:Юрьевич
+ldate:20.04.1996
+lmesto:гор.Новоуральск Свердловской обл. 
+pseri:6509
+pnum:828349
+pdate:11.05.2010
+region:66
+pkem:Отделом УФМС России по Свердловской области в городе Новоуральске
+pmesto:Отделом УФМС России по Свердловской области в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Жигаловского
+projcity:г. Новоуральск
+projul:ул. Жигаловского
+id:133
+/nbki.php?numid=49868&true_nbki=1&lfam=Ладутько&lname=Павел&lotch=Юрьевич&ldate=20.04.1996&lmesto=гор.Новоуральск+Свердловской+обл.+&pseri=6509&pnum=828349&pdate=11.05.2010&region=66&pkem=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&pmesto=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Жигаловского&projcity=г.+Новоуральск&projul=ул.+Жигаловского&id=133&
+
+------------------------------
+04.27.2015 14:53:17
+numid:50146
+true_nbki:1
+lfam:Чумаков
+lname:Александр
+lotch:Владимирович
+ldate:29.08.1985
+lmesto:Гор.Сорочинск Оренбургской области
+pseri:5305
+pnum:430807
+pdate:30.09.2006
+region:66
+pkem:ОВД г.Сорочинска Сорочинского р-на Оренбургской обл.
+pmesto:ОВД г.Сорочинска Сорочинского р-на Оренбургской обл.
+propcity:г. Новоуральск
+propul:б-р. Академика Кикоина
+projcity:г. Новоуральск
+projul:б-р. Академика Кикоина
+id:138
+/nbki.php?numid=50146&true_nbki=1&lfam=Чумаков&lname=Александр&lotch=Владимирович&ldate=29.08.1985&lmesto=Гор.Сорочинск+Оренбургской+области&pseri=5305&pnum=430807&pdate=30.09.2006&region=66&pkem=ОВД+г.Сорочинска+Сорочинского+р-на+Оренбургской+обл.&pmesto=ОВД+г.Сорочинска+Сорочинского+р-на+Оренбургской+обл.&propcity=г.+Новоуральск&propul=б-р.+Академика+Кикоина&projcity=г.+Новоуральск&projul=б-р.+Академика+Кикоина&id=138&
+
+------------------------------
+04.27.2015 16:52:32
+numid:50164
+true_nbki:1
+lfam:Шарунов
+lname:Антон
+lotch:Олегович
+ldate:14.03.1990
+lmesto:гор.Свердловск-44
+pseri:6511
+pnum:355147
+pdate:18.04.2012
+region:66
+pkem:Отделом УФМС России по свердловской области в  Верх-исетском р-не гор.Екатеринбурга
+pmesto:Отделом УФМС России по свердловской области в  Верх-исетском р-не гор.Екатеринбурга
+propcity:г. Новоуральск
+propul:ул. Комарова
+projcity:г. Новоуральск
+projul:ул. Комарова
+id:141
+/nbki.php?numid=50164&true_nbki=1&lfam=Шарунов&lname=Антон&lotch=Олегович&ldate=14.03.1990&lmesto=гор.Свердловск-44&pseri=6511&pnum=355147&pdate=18.04.2012&region=66&pkem=Отделом+УФМС+России+по+свердловской+области+в++Верх-исетском+р-не+гор.Екатеринбурга&pmesto=Отделом+УФМС+России+по+свердловской+области+в++Верх-исетском+р-не+гор.Екатеринбурга&propcity=г.+Новоуральск&propul=ул.+Комарова&projcity=г.+Новоуральск&projul=ул.+Комарова&id=141&
+
+------------------------------
+04.29.2015 14:10:05
+numid:50324
+true_nbki:1
+lfam:Попков
+lname:Евгений
+lotch:Анатольевич
+ldate:30.04.1985
+lmesto:г. Невьянск Свердловской обл.
+pseri:6505
+pnum:699482
+pdate:22.03.2006
+region:66
+pkem:Управлением Внутренних Дел гор.Новоуральска Свердловской обл.
+pmesto:Управлением Внутренних Дел гор.Новоуральска Свердловской обл.
+propcity:г. Новоуральск
+propul:ул. Корнилова
+projcity:г. Новоуральск
+projul:ул. Корнилова
+id:142
+/nbki.php?numid=50324&true_nbki=1&lfam=Попков&lname=Евгений&lotch=Анатольевич&ldate=30.04.1985&lmesto=г.+Невьянск+Свердловской+обл.&pseri=6505&pnum=699482&pdate=22.03.2006&region=66&pkem=Управлением+Внутренних+Дел+гор.Новоуральска+Свердловской+обл.&pmesto=Управлением+Внутренних+Дел+гор.Новоуральска+Свердловской+обл.&propcity=г.+Новоуральск&propul=ул.+Корнилова&projcity=г.+Новоуральск&projul=ул.+Корнилова&id=142&
+
+------------------------------
+04.29.2015 17:41:51
+numid:50351
+true_nbki:1
+lfam:Глинских
+lname:Марина
+lotch:Геннадьевна
+ldate:17.01.1967
+lmesto:гор. Кыштым Челябинской обл.
+pseri:6511
+pnum:135074
+pdate:21.02.2012
+region:66
+pkem:Отделом УФМС России по Свердловской области в городе Новоуральске
+pmesto:Отделом УФМС России по Свердловской области в городе Новоуральске
+propcity:г. Новоуральск
+propul:б-р. Академика Кикоина
+projcity:г. Новоуральск
+projul:б-р. Академика Кикоина
+id:143
+/nbki.php?numid=50351&true_nbki=1&lfam=Глинских&lname=Марина&lotch=Геннадьевна&ldate=17.01.1967&lmesto=гор.+Кыштым+Челябинской+обл.&pseri=6511&pnum=135074&pdate=21.02.2012&region=66&pkem=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&pmesto=Отделом+УФМС+России+по+Свердловской+области+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=б-р.+Академика+Кикоина&projcity=г.+Новоуральск&projul=б-р.+Академика+Кикоина&id=143&
+
+------------------------------
+04.30.2015 14:23:50
+numid:50424
+true_nbki:1
+lfam:Крюкова
+lname:Ольга
+lotch:Яковлевна
+ldate:06.09.1964
+lmesto:Гор. Чусовой Пермской обл
+pseri:6509
+pnum:688187
+pdate:22.09.2009
+region:66
+pkem:Отделом УФМС России по Свердловской обл. в городе Новоуральске
+pmesto:Отделом УФМС России по Свердловской обл. в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Октябрьская
+projcity:г. Новоуральск
+projul:ул. Октябрьская
+id:148
+/nbki.php?numid=50424&true_nbki=1&lfam=Крюкова&lname=Ольга&lotch=Яковлевна&ldate=06.09.1964&lmesto=Гор.+Чусовой+Пермской+обл&pseri=6509&pnum=688187&pdate=22.09.2009&region=66&pkem=Отделом+УФМС+России+по+Свердловской+обл.+в+городе+Новоуральске&pmesto=Отделом+УФМС+России+по+Свердловской+обл.+в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Октябрьская&projcity=г.+Новоуральск&projul=ул.+Октябрьская&id=148&
+
+------------------------------
+04.30.2015 18:13:32
+numid:50462
+true_nbki:1
+lfam:Лущикова
+lname:Анастасия
+lotch:Сергеевна
+ldate:05.09.1986
+lmesto:гор.Свердловск-44
+pseri:6505
+pnum:881340
+pdate:17.11.2006
+region:66
+pkem:Управлением Внутренних Дел Гор.Новоуральска Свердловской обл.
+pmesto:Управлением Внутренних Дел Гор.Новоуральска Свердловской обл.
+propcity:г. Новоуральск
+propul:ул. Комарова
+projcity:г. Новоуральск
+projul:ул. Комарова
+id:149
+/nbki.php?numid=50462&true_nbki=1&lfam=Лущикова&lname=Анастасия&lotch=Сергеевна&ldate=05.09.1986&lmesto=гор.Свердловск-44&pseri=6505&pnum=881340&pdate=17.11.2006&region=66&pkem=Управлением+Внутренних+Дел+Гор.Новоуральска+Свердловской+обл.&pmesto=Управлением+Внутренних+Дел+Гор.Новоуральска+Свердловской+обл.&propcity=г.+Новоуральск&propul=ул.+Комарова&projcity=г.+Новоуральск&projul=ул.+Комарова&id=149&
+
+------------------------------
+05.12.2015 17:05:07
+numid:51116
+true_nbki:1
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+lmesto:Свердловск-44 
+pseri:6506
+pnum:871168
+pdate:01.01.2003
+region:66
+pkem:УВД гор. Новоуральска Свердловской обл.
+pmesto:УВД гор. Новоуральска Свердловской обл.
+propcity:г. Екатеринбург
+propul:снт. Суходол
+projcity:г. Еманжелинск
+projul:ул. Ленина
+id:167
+/nbki.php?numid=51116&true_nbki=1&lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&lmesto=Свердловск-44+&pseri=6506&pnum=871168&pdate=01.01.2003&region=66&pkem=УВД+гор.+Новоуральска+Свердловской+обл.&pmesto=УВД+гор.+Новоуральска+Свердловской+обл.&propcity=г.+Екатеринбург&propul=снт.+Суходол&projcity=г.+Еманжелинск&projul=ул.+Ленина&id=167&
+
+------------------------------
+05.12.2015 17:23:30
+numid:51118
+true_nbki:1
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+lmesto:Свердловск-44 
+pseri:6506
+pnum:871168
+pdate:01.01.2003
+region:66
+pkem:УВД гор. Новоуральска Свердловской обл.
+pmesto:УВД гор. Новоуральска Свердловской обл.
+propcity:г. Екатеринбург
+propul:снт. Суходол
+projcity:г. Еманжелинск
+projul:ул. Ленина
+id:168
+/nbki.php?numid=51118&true_nbki=1&lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&lmesto=Свердловск-44+&pseri=6506&pnum=871168&pdate=01.01.2003&region=66&pkem=УВД+гор.+Новоуральска+Свердловской+обл.&pmesto=УВД+гор.+Новоуральска+Свердловской+обл.&propcity=г.+Екатеринбург&propul=снт.+Суходол&projcity=г.+Еманжелинск&projul=ул.+Ленина&id=168&
+
+------------------------------
+05.12.2015 17:40:19
+numid:51118
+true_nbki:1
+lfam:Мосолов
+lname:Сергей
+lotch:Александрович
+ldate:16.07.1973
+lmesto:Свердловск-44 
+pseri:6506
+pnum:871168
+pdate:01.01.2003
+region:66
+pkem:УВД гор. Новоуральска Свердловской обл.
+pmesto:УВД гор. Новоуральска Свердловской обл.
+propcity:г. Екатеринбург
+propul:снт. Суходол
+projcity:г. Еманжелинск
+projul:ул. Ленина
+id:169
+/nbki.php?numid=51118&true_nbki=1&lfam=Мосолов&lname=Сергей&lotch=Александрович&ldate=16.07.1973&lmesto=Свердловск-44+&pseri=6506&pnum=871168&pdate=01.01.2003&region=66&pkem=УВД+гор.+Новоуральска+Свердловской+обл.&pmesto=УВД+гор.+Новоуральска+Свердловской+обл.&propcity=г.+Екатеринбург&propul=снт.+Суходол&projcity=г.+Еманжелинск&projul=ул.+Ленина&id=169&
+
+------------------------------
+05.14.2015 17:27:12
+numid:51244
+true_nbki:1
+lfam:Берсенёва
+lname:Татьяна
+lotch:Владимировна
+ldate:02.05.1965
+lmesto:с. Усугли Тунгокоченского р-на Читинской обл.
+pseri:6511
+pnum:134353
+pdate:20.12.2011
+region:66
+pkem:Отделом УФМС России по Свердловской области  в городе Новоуральске
+pmesto:Отделом УФМС России по Свердловской области  в городе Новоуральске
+propcity:г. Новоуральск
+propul:ул. Комсомольская
+projcity:г. Новоуральск
+projul:ул. Сергея Дудина
+id:178
+/nbki.php?numid=51244&true_nbki=1&lfam=Берсенёва&lname=Татьяна&lotch=Владимировна&ldate=02.05.1965&lmesto=с.+Усугли+Тунгокоченского+р-на+Читинской+обл.&pseri=6511&pnum=134353&pdate=20.12.2011&region=66&pkem=Отделом+УФМС+России+по+Свердловской+области++в+городе+Новоуральске&pmesto=Отделом+УФМС+России+по+Свердловской+области++в+городе+Новоуральске&propcity=г.+Новоуральск&propul=ул.+Комсомольская&projcity=г.+Новоуральск&projul=ул.+Сергея+Дудина&id=178&
+
+------------------------------
+05.15.2015 10:43:08
+numid:51268
+true_nbki:1
+lfam:Мельникова
+lname:Елена
+lotch:Миколаевна
+ldate:02.06.1981
+lmesto:пос Восточный Серовского района Свердловской обл
+pseri:6505
+pnum:664662
+pdate:06.03.2006
+region:66
+pkem:Кировградским ОВД Свердловской обл
+pmesto:Кировградским ОВД Свердловской обл
+propcity:п. Нейво-Рудянка
+propul:ул. Победы
+projcity:г. Новоуральск
+projul:б-р. Академика Кикоина
+id:179
+/nbki.php?numid=51268&true_nbki=1&lfam=Мельникова&lname=Елена&lotch=Миколаевна&ldate=02.06.1981&lmesto=пос+Восточный+Серовского+района+Свердловской+обл&pseri=6505&pnum=664662&pdate=06.03.2006&region=66&pkem=Кировградским+ОВД+Свердловской+обл&pmesto=Кировградским+ОВД+Свердловской+обл&propcity=п.+Нейво-Рудянка&propul=ул.+Победы&projcity=г.+Новоуральск&projul=б-р.+Академика+Кикоина&id=179&
+
+------------------------------
+05.17.2015 14:42:45
+numid:51399
+true_nbki:1
+lfam:Манафов
+lname:Альберт
+lotch:Альфридович
+ldate:02.05.1985
+lmesto:Гор.Карши Узбекистан
+pseri:8005
+pnum:588630
+pdate:31.08.2006
+region:66
+pkem:Балтачевским РОВД РЕСП. Башкортостан
+pmesto:Балтачевским РОВД РЕСП. Башкортостан
+propcity:г. Новоуральск
+propul:ул. Чурина
+projcity:г. Новоуральск
+projul:ул. Чурина
+id:184
+/nbki.php?numid=51399&true_nbki=1&lfam=Манафов&lname=Альберт&lotch=Альфридович&ldate=02.05.1985&lmesto=Гор.Карши+Узбекистан&pseri=8005&pnum=588630&pdate=31.08.2006&region=66&pkem=Балтачевским+РОВД+РЕСП.+Башкортостан&pmesto=Балтачевским+РОВД+РЕСП.+Башкортостан&propcity=г.+Новоуральск&propul=ул.+Чурина&projcity=г.+Новоуральск&projul=ул.+Чурина&id=184&
+
+------------------------------
+05.18.2015 10:11:23
+numid:51424
+true_nbki:1
+lfam:Кривчун
+lname:Руслан
+lotch:Владимирович
+ldate:29.05.1973
+lmesto:гор.Свердловск
+pseri:6504
+pnum:245424
+pdate:17.06.2003
+region:66
+pkem:Управлением Внутренних Дел гор.Новоуральска Свердловской обл.
+pmesto:Управлением Внутренних Дел гор.Новоуральска Свердловской обл.
+propcity:г. Новоуральск
+propul:ул. Корнилова
+projcity:г. Новоуральск
+projul:ул. Корнилова
+id:185
+/nbki.php?numid=51424&true_nbki=1&lfam=Кривчун&lname=Руслан&lotch=Владимирович&ldate=29.05.1973&lmesto=гор.Свердловск&pseri=6504&pnum=245424&pdate=17.06.2003&region=66&pkem=Управлением+Внутренних+Дел+гор.Новоуральска+Свердловской+обл.&pmesto=Управлением+Внутренних+Дел+гор.Новоуральска+Свердловской+обл.&propcity=г.+Новоуральск&propul=ул.+Корнилова&projcity=г.+Новоуральск&projul=ул.+Корнилова&id=185&
+
+------------------------------
+05.20.2015 12:00:13
+numid:19376
+true_nbki:9
+lfam:Мосолов
+lname:Сергей
+lotch:Александровчич
+ldate:22.06.1991
+lmesto:г. Свердловск-44
+pseri:1234
+pnum:567890
+pdate:22.06.2011
+region:34
+pkem:23234344234
+pmesto:23234344234
+propcity:г. Волгоград
+propul:ул. Новаторская
+projcity:г. Красноуральск
+projul:ул. Ленина
+id:189
+/nbki.php?numid=19376&true_nbki=9&lfam=Мосолов&lname=Сергей&lotch=Александровчич&ldate=22.06.1991&lmesto=г.+Свердловск-44&pseri=1234&pnum=567890&pdate=22.06.2011&region=34&pkem=23234344234&pmesto=23234344234&propcity=г.+Волгоград&propul=ул.+Новаторская&projcity=г.+Красноуральск&projul=ул.+Ленина&id=189&
+
+------------------------------
+05.20.2015 13:06:00
+numid:51554
+true_nbki:1
+lfam:Мизева
+lname:Татьяна
+lotch:Дмитриевна
+ldate:19.06.1954
+lmesto:город  Нижний Тагил Свердловской области
+pseri:6504
+pnum:040053
+pdate:11.04.2003
+region:66
+pkem:УВД гор Новоуральска Свердловской области
+pmesto:УВД гор Новоуральска Свердловской области
+propcity:г. Новоуральск
+propul:б-р. Академика Кикоина
+projcity:г. Новоуральск
+projul:б-р. Академика Кикоина
+id:190
+/nbki.php?numid=51554&true_nbki=1&lfam=Мизева&lname=Татьяна&lotch=Дмитриевна&ldate=19.06.1954&lmesto=город++Нижний+Тагил+Свердловской+области&pseri=6504&pnum=040053&pdate=11.04.2003&region=66&pkem=УВД+гор+Новоуральска+Свердловской+области&pmesto=УВД+гор+Новоуральска+Свердловской+области&propcity=г.+Новоуральск&propul=б-р.+Академика+Кикоина&projcity=г.+Новоуральск&projul=б-р.+Академика+Кикоина&id=190&
+
+------------------------------
+05.20.2015 14:44:51
+numid:51570
+true_nbki:1
+lfam:Щербакова
+lname:Татьяна
+lotch:Владимировна
+ldate:01.05.1983
+lmesto:гор.Радомышль Радомышльского р-на Житомирской обл.
+pseri:6513
+pnum:607054
+pdate:10.10.2013
+region:66
+pkem:Отделением УФМС России по Свердловской области в Режевском районе
+pmesto:Отделением УФМС России по Свердловской области в Режевском районе
+propcity:г. Реж
+propul:ул. Кирова
+projcity:г. Реж
+projul:ул. Вокзальная
+id:195
+/nbki.php?numid=51570&true_nbki=1&lfam=Щербакова&lname=Татьяна&lotch=Владимировна&ldate=01.05.1983&lmesto=гор.Радомышль+Радомышльского+р-на+Житомирской+обл.&pseri=6513&pnum=607054&pdate=10.10.2013&region=66&pkem=Отделением+УФМС+России+по+Свердловской+области+в+Режевском+районе&pmesto=Отделением+УФМС+России+по+Свердловской+области+в+Режевском+районе&propcity=г.+Реж&propul=ул.+Кирова&projcity=г.+Реж&projul=ул.+Вокзальная&id=195&
+
+------------------------------
+05.20.2015 15:28:01
+numid:51575
+true_nbki:4
+lfam:Галимова
+lname:Кульпан
+lotch:Оразовна
+ldate:09.10.1952
+lmesto:гор. Петропавловск Северо-Казахстанская обл. Казахстан
+pseri:7503
+pnum:899351
+pdate:30.09.2003
+region:74
+pkem:ОВД гор. Коркино Челябинской обл.
+pmesto:ОВД гор. Коркино Челябинской обл.
+propcity:г. Коркино
+propul:ул. Карла Маркса
+projcity:г. Коркино
+projul:ул. Карла Маркса
+id:200
+/nbki.php?numid=51575&true_nbki=4&lfam=Галимова&lname=Кульпан&lotch=Оразовна&ldate=09.10.1952&lmesto=гор.+Петропавловск+Северо-Казахстанская+обл.+Казахстан&pseri=7503&pnum=899351&pdate=30.09.2003&region=74&pkem=ОВД+гор.+Коркино+Челябинской+обл.&pmesto=ОВД+гор.+Коркино+Челябинской+обл.&propcity=г.+Коркино&propul=ул.+Карла+Маркса&projcity=г.+Коркино&projul=ул.+Карла+Маркса&id=200&
+
+------------------------------
+05.20.2015 15:36:22
+/nbki-xml.php?
+
+------------------------------
+05.20.2015 16:29:03
+numid:51578
+true_nbki:3
+lfam:Юсупова
+lname:Рашида
+lotch:Файзулловна
+ldate:24.10.1943
+lmesto:ГОР.СВЕРДЛОВСК
+pseri:6504
+pnum:819560
+pdate:05.11.2003
+region:66
+pkem:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+pmesto:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+propcity:г. Полевской
+propul:ул. Декабристов
+projcity:г. Полевской
+projul:ул. Декабристов
+id:202
+/nbki.php?numid=51578&true_nbki=3&lfam=Юсупова&lname=Рашида&lotch=Файзулловна&ldate=24.10.1943&lmesto=ГОР.СВЕРДЛОВСК&pseri=6504&pnum=819560&pdate=05.11.2003&region=66&pkem=ПОЛЕВСКИМ+ГОВД+СВЕРДЛОВСКОЙ+ОБЛАСТИ&pmesto=ПОЛЕВСКИМ+ГОВД+СВЕРДЛОВСКОЙ+ОБЛАСТИ&propcity=г.+Полевской&propul=ул.+Декабристов&projcity=г.+Полевской&projul=ул.+Декабристов&id=202&
+
+------------------------------
+05.20.2015 16:29:07
+numid:51578
+true_nbki:3
+lfam:Юсупова
+lname:Рашида
+lotch:Файзулловна
+ldate:24.10.1943
+lmesto:ГОР.СВЕРДЛОВСК
+pseri:6504
+pnum:819560
+pdate:05.11.2003
+region:66
+pkem:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+pmesto:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+propcity:г. Полевской
+propul:ул. Декабристов
+projcity:г. Полевской
+projul:ул. Декабристов
+id:202
+/nbki-xml.php?numid=51578&true_nbki=3&lfam=Юсупова&lname=Рашида&lotch=Файзулловна&ldate=24.10.1943&lmesto=ГОР.СВЕРДЛОВСК&pseri=6504&pnum=819560&pdate=05.11.2003&region=66&pkem=ПОЛЕВСКИМ+ГОВД+СВЕРДЛОВСКОЙ+ОБЛАСТИ&pmesto=ПОЛЕВСКИМ+ГОВД+СВЕРДЛОВСКОЙ+ОБЛАСТИ&propcity=г.+Полевской&propul=ул.+Декабристов&projcity=г.+Полевской&projul=ул.+Декабристов&id=202&
+
+------------------------------
+05.20.2015 16:58:04
+numid:51578
+true_nbki:3
+lfam:Юсупова
+lname:Рашида
+lotch:Файзулловна
+ldate:24.10.1943
+lmesto:ГОР.СВЕРДЛОВСК
+pseri:6504
+pnum:819560
+pdate:05.11.2003
+region:66
+pkem:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+pmesto:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+propcity:г. Полевской
+propul:ул. Декабристов
+projcity:г. Полевской
+projul:ул. Декабристов
+id:202
+/nbki-xml.php?numid=51578&true_nbki=3&lfam=%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D0%B0&lname=%D0%A0%D0%B0%D1%88%D0%B8%D0%B4%D0%B0&lotch=%D0%A4%D0%B0%D0%B9%D0%B7%D1%83%D0%BB%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0&ldate=24.10.1943&lmesto=%D0%93%D0%9E%D0%A0.%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A&pseri=6504&pnum=819560&pdate=05.11.2003&region=66&pkem=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&pmesto=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&propcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&propul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&projcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&projul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&id=202&
+
+------------------------------
+05.20.2015 16:58:32
+numid:51578
+true_nbki:3
+lfam:Юсупова
+lname:Рашида
+lotch:Файзулловна
+ldate:24.10.1943
+lmesto:ГОР.СВЕРДЛОВСК
+pseri:6504
+pnum:819560
+pdate:05.11.2003
+region:66
+pkem:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+pmesto:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+propcity:г. Полевской
+propul:ул. Декабристов
+projcity:г. Полевской
+projul:ул. Декабристов
+id:202
+/nbki.php?numid=51578&true_nbki=3&lfam=%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D0%B0&lname=%D0%A0%D0%B0%D1%88%D0%B8%D0%B4%D0%B0&lotch=%D0%A4%D0%B0%D0%B9%D0%B7%D1%83%D0%BB%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0&ldate=24.10.1943&lmesto=%D0%93%D0%9E%D0%A0.%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A&pseri=6504&pnum=819560&pdate=05.11.2003&region=66&pkem=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&pmesto=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&propcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&propul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&projcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&projul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&id=202&
+
+------------------------------
+05.20.2015 16:58:52
+numid:51578
+true_nbki:3
+lfam:Юсупова
+lname:Рашида
+lotch:Файзулловна
+ldate:24.10.1943
+lmesto:ГОР.СВЕРДЛОВСК
+pseri:6504
+pnum:819560
+pdate:05.11.2003
+region:66
+pkem:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+pmesto:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+propcity:г. Полевской
+propul:ул. Декабристов
+projcity:г. Полевской
+projul:ул. Декабристов
+id:202
+/nbki.php?numid=51578&true_nbki=3&lfam=%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D0%B0&lname=%D0%A0%D0%B0%D1%88%D0%B8%D0%B4%D0%B0&lotch=%D0%A4%D0%B0%D0%B9%D0%B7%D1%83%D0%BB%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0&ldate=24.10.1943&lmesto=%D0%93%D0%9E%D0%A0.%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A&pseri=6504&pnum=819560&pdate=05.11.2003&region=66&pkem=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&pmesto=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&propcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&propul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&projcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&projul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&id=202&
+
+------------------------------
+05.20.2015 16:59:00
+numid:51578
+true_nbki:4
+lfam:Юсупова
+lname:Рашида
+lotch:Файзулловна
+ldate:24.10.1943
+lmesto:ГОР.СВЕРДЛОВСК
+pseri:6504
+pnum:819560
+pdate:05.11.2003
+region:66
+pkem:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+pmesto:ПОЛЕВСКИМ ГОВД СВЕРДЛОВСКОЙ ОБЛАСТИ
+propcity:г. Полевской
+propul:ул. Декабристов
+projcity:г. Полевской
+projul:ул. Декабристов
+id:202
+/nbki.php?numid=51578&true_nbki=4&lfam=%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D0%B0&lname=%D0%A0%D0%B0%D1%88%D0%B8%D0%B4%D0%B0&lotch=%D0%A4%D0%B0%D0%B9%D0%B7%D1%83%D0%BB%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0&ldate=24.10.1943&lmesto=%D0%93%D0%9E%D0%A0.%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A&pseri=6504&pnum=819560&pdate=05.11.2003&region=66&pkem=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&pmesto=%D0%9F%D0%9E%D0%9B%D0%95%D0%92%D0%A1%D0%9A%D0%98%D0%9C+%D0%93%D0%9E%D0%92%D0%94+%D0%A1%D0%92%D0%95%D0%A0%D0%94%D0%9B%D0%9E%D0%92%D0%A1%D0%9A%D0%9E%D0%99+%D0%9E%D0%91%D0%9B%D0%90%D0%A1%D0%A2%D0%98&propcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&propul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&projcity=%D0%B3.+%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9&projul=%D1%83%D0%BB.+%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2&id=202&
+
+------------------------------
+05.20.2015 17:02:18
+numid:51579
+true_nbki:1
+lfam:Таланкин
+lname:Александр
+lotch:Вадимович
+ldate:14.05.1997
+lmesto:гор. Верхняя Салда Свердловской обл.
+pseri:6511
+pnum:194794
+pdate:26.10.2011
+region:66
+pkem:Отделением УФМС России по Свердловской области в Верхнесалдинском районе
+pmesto:Отделением УФМС России по Свердловской области в Верхнесалдинском районе
+propcity:г. Верхняя Салда
+propul:ул. Устинова
+projcity:г. Верхняя Салда
+projul:ул. Устинова
+id:203
+/nbki.php?numid=51579&true_nbki=1&lfam=Таланкин&lname=Александр&lotch=Вадимович&ldate=14.05.1997&lmesto=гор.+Верхняя+Салда+Свердловской+обл.&pseri=6511&pnum=194794&pdate=26.10.2011&region=66&pkem=Отделением+УФМС+России+по+Свердловской+области+в+Верхнесалдинском+районе&pmesto=Отделением+УФМС+России+по+Свердловской+области+в+Верхнесалдинском+районе&propcity=г.+Верхняя+Салда&propul=ул.+Устинова&projcity=г.+Верхняя+Салда&projul=ул.+Устинова&id=203&
+
+------------------------------
+05.20.2015 17:02:19
+numid:51579
+true_nbki:1
+lfam:Таланкин
+lname:Александр
+lotch:Вадимович
+ldate:14.05.1997
+lmesto:гор. Верхняя Салда Свердловской обл.
+pseri:6511
+pnum:194794
+pdate:26.10.2011
+region:66
+pkem:Отделением УФМС России по Свердловской области в Верхнесалдинском районе
+pmesto:Отделением УФМС России по Свердловской области в Верхнесалдинском районе
+propcity:г. Верхняя Салда
+propul:ул. Устинова
+projcity:г. Верхняя Салда
+projul:ул. Устинова
+id:203
+/nbki-xml.php?numid=51579&true_nbki=1&lfam=Таланкин&lname=Александр&lotch=Вадимович&ldate=14.05.1997&lmesto=гор.+Верхняя+Салда+Свердловской+обл.&pseri=6511&pnum=194794&pdate=26.10.2011&region=66&pkem=Отделением+УФМС+России+по+Свердловской+области+в+Верхнесалдинском+районе&pmesto=Отделением+УФМС+России+по+Свердловской+области+в+Верхнесалдинском+районе&propcity=г.+Верхняя+Салда&propul=ул.+Устинова&projcity=г.+Верхняя+Салда&projul=ул.+Устинова&id=203&
