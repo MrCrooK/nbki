@@ -372,7 +372,7 @@ $i=0;
 $daystr = '';
 $str = '';
 $str = (string) $bankiitm->paymtPat;
-$lmonth = substr($bankiitm->lastPaymtDt, 6, 7);
+$lmonth = (int) substr($bankiitm->lastPaymtDt, 5, 2);
 while ($i < strlen($str)):
  $daystr .= "<td class='clasitm".$str[$i]."'><div style='margin-bottom: 5px;'>".$str[$i]."</div><div style='font-size: 12px; transform: rotate(-90deg);'>".$lmonth."</div></td>";
  $lmonth--;
