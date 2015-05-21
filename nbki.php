@@ -36,7 +36,7 @@ if($_REQUEST["true_nbki"]==3) {
 $auth= '
 					<MemberCode>7C01GG000000</MemberCode>
 					<UserID>7C01GG000002</UserID>
-					<Password>HgeT47yY</Password>	
+					<Password>HgeT66y1</Password>	
 ';
 $urlset = 'icrs.nbki.ru';
 $adr = "https://icrs.nbki.ru/products/B2BRequestServlet";
@@ -368,18 +368,33 @@ $tableInfo = '
 
 <?foreach($banki as $bankiitm):?>
 <?
+unset($arTimeLine);
 $i=0;
 $daystr = '';
 $str = '';
 $str = (string) $bankiitm->paymtPat;
-$lmonth = (int) substr($bankiitm->lastPaymtDt, 5, 2);
+$openCredit = substr($bankiitm->openedDt, 0, 10);
+$daystr .= "<tr>";
 while ($i < strlen($str)):
- $daystr .= "<td class='clasitm".$str[$i]."'><div style='margin-bottom: 5px;'>".$str[$i]."</div><div style='font-size: 12px; transform: rotate(-90deg);'>".$lmonth."</div></td>";
- $lmonth--;
- if($lmonth==0) {$lmonth = 12;}
-$i++;
+ $daystr .= "<td class='clasitm".$str[$i]."'>".$str[$i]."</td>";
+ 
+ $d = new DateTime($openCredit);
+ $arTimeLine[$d->format("Y")]++;
+ $d->modify("+1 month");
+ $openCredit = $d->format("Y-m-d");
+ 
+ $i++; 
 endwhile;
+$daystr .= "</tr>";
+
+$daystr .= "<tr class='timeline'>";
+krsort($arTimeLine);
+foreach($arTimeLine as $k => $v) {
+	$daystr .= "<td style='border: 1px solid #000; border-top: 0; text-align: center;' colspan=".$v.">".$k."</td>";
+}
+$daystr .= "</tr>";
 ?>
+
 <?
 $tableBanki .= '
 <table border="0" width="100%" class="tgray" cellspacing="0" cellpadding="3">
@@ -419,9 +434,9 @@ $tableBanki .= '
 			</td>
 			<td valign="top" colspan="3">
 				<div class="title">Своевременность платежей (за '.$bankiitm->monthsReviewed.' мес, последний - слева)</div>
-				<table><tr>
-'.$daystr.'
-				</tr></table>
+				<table cellspacing="1">
+				'.$daystr.'
+				</table>
 			</td>
 		    </tr>
 		</TBODY>

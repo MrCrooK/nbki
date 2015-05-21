@@ -36,7 +36,7 @@ if($_REQUEST["true_nbki"]==3) {
 $auth= '
 					<MemberCode>7C01GG000000</MemberCode>
 					<UserID>7C01GG000002</UserID>
-					<Password>HgeT47yY</Password>	
+					<Password>HgeT66y1</Password>	
 ';
 $urlset = 'icrs.nbki.ru';
 $adr = "https://icrs.nbki.ru/products/B2BRequestServlet";
