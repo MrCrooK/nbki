@@ -135,7 +135,11 @@ $adr = "https://icrs.nbki.ru/products/B2BRequestServlet";
 	$adres = $xml->preply->report->AddressReply;
 	$banki = $xml->preply->report->AccountReply;
 	if(!$xml) { echo "Сервер НБКИ не отвечает, попробуйте позже.<pre>"; print_r($infoget); print_r($errors); }
-	if($xml->preply->err->ctErr->Text) {echo $xml->preply->err->ctErr->Text; }
+	if($xml->preply->err->ctErr->Text) {
+	?>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td class="h1" valign="top">НБКИ</td><td valign="top"><p style='color: red'><?=$xml->preply->err->ctErr->Text?></p></td></tr></tbody></table>
+	<?
+	}
 ?>
 <?
 $tableContact = '
@@ -446,7 +450,7 @@ $tableBanki .= '
 <?endforeach?>
 <?
 //Выводим собранные данные
-if($xml) { echo $tableContact.$tableCalc.$tablePasport.$tableAdres.$tableInfo.$tableBanki; }
+if($xml) { if(!$xml->preply->err->ctErr->Text) echo $tableContact.$tableCalc.$tablePasport.$tableAdres.$tableInfo.$tableBanki; }
 } else {
 echo "Все поля должны быть заполнены";
 } 
